@@ -1,23 +1,41 @@
-# Awesome-Federated-Learning-on-Graph-and-GNN-papers
-federated learning on graph, especially on graph neural networks (GNNs), knowledge graph, and private GNN.
+# Sparsity Constrained Optimization
 
-## Federated Learning on Graphs
-1. \[Arxiv 2019\] **Peer-to-peer federated learning on graphs.** [paper](https://arxiv.org/pdf/1901.11173)
-2. \[NeurIPS Workshop 2019\] **Towards Federated Graph Learning for Collaborative Financial Crimes Detection.** [paper](https://arxiv.org/pdf/1909.12946)
-3. \[SPAWC 2021\] **A Graph Federated Architecture with Privacy Preserving Learning.** [paper](https://arxiv.org/pdf/2104.13215)
-4. \[Arxiv 2021\] **Federated Myopic Community Detection with One-shot Communication.** [paper](https://arxiv.org/pdf/2106.07255)
-5. \[ICCAD 2021\] **FL-DISCO: Federated Generative Adversarial Network for Graph-based Molecule Drug Discovery: Special Session Paper.** [paper](https://doi.org/10.1109/ICCAD51958.2021.9643440)
-6. \[ICML 2023\] **Personalized Subgraph Federated Learning.** [paper](https://arxiv.org/abs/2206.10206)
+----
 
-## Federated Learning on Graph Neural Networks
+`Outlier Detection <https://en.wikipedia.org/wiki/Anomaly_detection>`_
+(also known as *Anomaly Detection*) is an exciting yet challenging field,
+which aims to identify outlying objects that are deviant from the general data distribution.
+Outlier detection has been proven critical in many fields, such as credit card
+fraud analytics, network intrusion detection, and mechanical unit defect detection.
 
-### Survey Papers
-1. \[Arxiv 2021\] **FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks.** [paper](https://arxiv.org/pdf/2104.07145) 
-2. \[Arxiv 2021\] **Federated Graph Learning -- A Position Paper.** [paper](https://arxiv.org/pdf/2105.11099)
-2. \[Arxiv 2022\] **Federated Graph Neural Networks: Overview, Techniques and Challenges** [paper](https://arxiv.org/pdf/2202.07256)
+This repository collects:
 
 
-### Algorithm Papers
+#. Books & Academic Papers 
+#. Online Courses and Videos
+#. Outlier Datasets
+#. Open-source and Commercial Libraries/Toolkits
+#. Key Conferences & Journals
+
+
+**More items will be added to the repository**.
+Please feel free to suggest other key resources by opening an issue report,
+submitting a pull request, or dropping me an email @ (zhaoy@cmu.edu).
+Enjoy reading!
+
+BTW, you may find my `[GitHub] <https://github.com/yzhao062>`_ and
+`[outlier detection papers] <https://scholar.google.com/citations?user=zoGDYsoAAAAJ&hl=en>`_ useful.
+
+----
+
+
+### Survey (综述文章)
+* \[Arxiv 2021\] **FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks.** [paper](https://arxiv.org/pdf/2104.07145) 
+*  \[Arxiv 2021\] **Federated Graph Learning -- A Position Paper.** [paper](https://arxiv.org/pdf/2105.11099)
+*  \[Arxiv 2022\] **Federated Graph Neural Networks: Overview, Techniques and Challenges** [paper](https://arxiv.org/pdf/2202.07256)
+
+
+### Theory （理论文章）
 
 1. \[Arxiv 2020\] **Federated Dynamic GNN with Secure Aggregation.** [paper](https://arxiv.org/pdf/2009.07351)
 2. \[Arxiv 2020\] **Privacy-Preserving Graph Neural Network for Node Classification.** [paper](https://arxiv.org/pdf/2005.11903)
@@ -41,7 +59,7 @@ federated learning on graph, especially on graph neural networks (GNNs), knowled
 21. [JBHI 2022] **Dynamic Neural Graphs Based Federated Reptile for Semi-Supervised Multi-Tasking in Healthcare Applications** [paper](https://ieeexplore.ieee.org/document/9648036)
 22. [CIKM Workshop 2022] **FedGCN: Convergence and Communication Tradeoffs in Federated Training of Graph Convolutional Networks** [paper](https://arxiv.org/abs/2201.12433) [code](https://github.com/yh-yao/FedGCN)
 
-## Federated Learning on Knowledge Graph
+### Algorithm （算法文章）
 1. \[IJCKG 2021\] **FedE: Embedding Knowledge Graphs in Federated Setting.** [paper](https://dl.acm.org/doi/abs/10.1145/3502223.3502233) [code](https://github.com/AnselCmy/FedE)
 2. \[Arxiv 2020\] **Improving Federated Relational Data Modeling via Basis Alignment and Weight Penalty.** [paper](https://arxiv.org/pdf/2011.11369)
 3. \[CIKM 2021\] **Federated Knowledge Graphs Embedding.**[paper](https://arxiv.org/pdf/2105.07615)
@@ -57,12 +75,7 @@ federated learning on graph, especially on graph neural networks (GNNs), knowled
 5. \[Arxiv 2021\] **Towards Representation Identical Privacy-Preserving Graph Neural Network via Split Learning.** [paper](https://arxiv.org/abs/2107.05917)
 
 
-## Federated Learning: Survey
-1. \[IEEE Signal Processing Magazine 2019\] **Federated Learning：Challenges, Methods, and Future Directions.** [paper](https://arxiv.org/pdf/1908.07873)
-2. \[ACM TIST 2019\] **Federated Machine Learning Concept and Applications.** [paper](https://arxiv.org/pdf/1902.04885)
-3. \[IEEE Communications Surveys & Tutorials 2020\] **Federated Learning in Mobile Edge Networks A Comprehensive Survey.** [paper](https://arxiv.org/pdf/1909.11875)
-
-## Graph Neural Networks: Survey
+## Datasets（数据集）
 1. \[IEEE TNNLS 2020\] **A Comprehensive Survey on Graph Neural Networks.** [paper](https://arxiv.org/pdf/1901.00596)
 2. \[IEEE TKDE 2020\] **Deep Learning on Graphs: A Survey.** [paper](https://arxiv.org/pdf/1812.04202.pdf%E3%80%82)
 3. \[AI Open\] **Graph Neural Networks: A Review of Methods and Applications.** [paper](https://www.sciencedirect.com/science/article/pii/S2666651021000012)
