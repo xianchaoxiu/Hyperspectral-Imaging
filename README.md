@@ -1,4 +1,4 @@
-# Sparsity Constrained Optimization and Its Applications
+# Sparsity Constrained Optimization
 
 ----
 
