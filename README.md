@@ -30,9 +30,9 @@ BTW, you may find my `[GitHub] <https://github.com/yzhao062>`_ and
 
 
 ### Survey (综述文章)
-* \[Arxiv 2021\] **FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks.** [paper](https://arxiv.org/pdf/2104.07145) 
-*  \[Arxiv 2021\] **Federated Graph Learning -- A Position Paper.** [paper](https://arxiv.org/pdf/2105.11099)
-*  \[Arxiv 2022\] **Federated Graph Neural Networks: Overview, Techniques and Challenges** [paper](https://arxiv.org/pdf/2202.07256)
+* \[2021\] FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks. [pdf](https://arxiv.org/pdf/2104.07145) 
+*  \[2021\] Federated Graph Learning -- A Position Paper. [paper](https://arxiv.org/pdf/2105.11099)
+*  \[2022\] Federated Graph Neural Networks: Overview, Techniques and Challenges [paper](https://arxiv.org/pdf/2202.07256)
 
 
 ### Theory （理论文章）
