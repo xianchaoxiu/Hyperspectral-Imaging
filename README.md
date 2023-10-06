@@ -2,7 +2,7 @@
 
 ----
 
-`Sparse Optimization` is a class of nonconvex nonsmooth optimization problems involving l0 norm that has been proven critical in many fields, such as signal and image processing, machine learning, and engineering. If you have any suggestions, please feel free to contact xcxiu@shu.edu.cn.
+`Sparse Optimization` is a class of nonconvex nonsmooth optimization problems involving l0 norm that has been proven critical in many fields, such as signal and image processing, machine learning, and engineering. 
 
 ----
 
