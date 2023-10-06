@@ -10,11 +10,22 @@
 * SNMF-Net: Learning a Deep Alternating Neural Network for Hyperspectral Unmixing, IEEE TGRS 2022 [[paper](https://ieeexplore.ieee.org/abstract/document/9444347)]
 
 ### Denoising
-
-* SMDS-Net: Model Guided Spectral-Spatial Network for Hyperspectral Image Denoising, IEEE TIP 2022 [[paper](https://ieeexplore.ieee.org/abstract/document/9855427)]
-* LR-Net: Low-Rank Spatial-Spectral Network for Hyperspectral Image Denoising, IEEE TIP 2021 [[paper](https://ieeexplore.ieee.org/abstract/document/9580717)]
-
-
+* [2023] A survey on hyperspectral image restoration: from the view of low-rank tensor approximation, SIIS [[paper](https://link.springer.com/article/10.1007/s11432-022-3609-4)]
+* [2023] Hyperspectral Image Denoising: From Model-Driven, Data-Driven, to Model-Data-Driven, IEEE TNNLS [[paper](https://ieeexplore.ieee.org/abstract/document/10144690)]
+* [2023] Hyperspectral Image Denoising via Weighted Multidirectional Low-Rank Tensor Recovery, IEEE TC [[paper](https://ieeexplore.ieee.org/abstract/document/9920675)]
+* [2023] Nonlocal Structured Sparsity Regularization Modeling for Hyperspectral Image Denoising, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/10106506)]
+* [2023] Multitask Sparse Representation Model-Inspired Network for Hyperspectral Image Denoising, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/10198268)]
+* [2022] SMDS-Net: Model Guided Spectral-Spatial Network for Hyperspectral Image Denoising, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/9855427)]
+* [2022] Fast Noise Removal in Hyperspectral Images via Representative Coefficient Total Variation, IEEE TGRS  [[paper](https://ieeexplore.ieee.org/abstract/document/9989343)]
+* [2022] Hyperspectral Image Denoising by Asymmetric Noise Modeling, IEEE TGRS  [[paper](https://ieeexplore.ieee.org/abstract/document/9975834)]
+* [2021] LR-Net: Low-Rank Spatial-Spectral Network for Hyperspectral Image Denoising, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/9580717)]
+* [2021] A Trainable Spectral-Spatial Sparse Coding Model for Hyperspectral Image Restoration, NeurIPS  [[paper](https://proceedings.neurips.cc/paper/2021/hash/2b515e2bdd63b7f034269ad747c93a42-Abstract.html)][[code](https://github.com/inria-thoth/T3SC)]  
+* [2021] MAC-Net: Model Aided Nonlocal Neural Network for Hyperspectral Image Denoising, IEEE TGRS  [[paper](https://ieeexplore.ieee.org/abstract/document/9631264)] [[code](https://github.com/bearshng/mac-net)] 
+* [2021] Hyperspectral Image Denoising via Low-Rank Representation and CNN Denoiser, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/document/9664348)]
+* [2020] Hyperspectral image restoration via CNN denoiser prior regularized low-rank tensor recovery, CVIU [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314220300710)] [[code](https://github.com/NavyZeng/DPLRTA)] 
+* [2019] Hyperspectral Image Denoising via Matrix Factorization and Deep Prior Regularization, IEEE TIP [[paper](https://ieeexplore.ieee.org/document/8767025)]
+* [2018] Hyperspectral Image Restoration Via Total Variation Regularized Low-Rank Tensor Decomposition, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/abstract/document/8233403)]
+[[code](https://github.com/zhaoxile/Hyperspectral-Image-Restoration-via-Total-Variation-Regularized-Low-rank-Tensor-Decomposition)] 
 
 
 ### Fusion
