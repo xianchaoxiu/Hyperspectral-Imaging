@@ -46,7 +46,7 @@
 * [2021] Hyperspectral Anomaly Detection via Deep Plug-and-Play Denoising CNN Regularization, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9329138)][[code](https://github.com/FxyPd)]
 * [2020] Graph and Total Variation Regularized Low-Rank Representation for Hyperspectral Anomaly Detection, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/8833518)]
 * [2016] Anomaly Detection in Hyperspectral Images Based on Low-Rank and Sparse Representation, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/7322257)][[code](https://github.com/axiqia/Anomaly-Detection-in-Hyperspectral-Images-Based-on-Low-Rank-and-Sparse-Representation)]
-*[2016] A Tensor Decomposition-Based Anomaly Detection Algorithm for Hyperspectral Image, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/7493677)]
+* [2016] A Tensor Decomposition-Based Anomaly Detection Algorithm for Hyperspectral Image, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/7493677)]
 
 ### Surveys
 * [2023] A survey on hyperspectral image restoration: from the view of low-rank tensor approximation, SIIS [[paper](https://link.springer.com/article/10.1007/s11432-022-3609-4)]
