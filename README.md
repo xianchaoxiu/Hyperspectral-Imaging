@@ -1,15 +1,15 @@
 # Model-Data-Driven Pattern Recognition 
 
 
-We foucs on model-data-driven methods in various pattern recognition applications, such as hyperspectral image analysis, chip defect inspection, and intelligent fault diagnosis.
+`We foucs on model-data-driven methods in various pattern recognition applications, such as hyperspectral image analysis, chip defect inspection, and intelligent fault diagnosis.`
 
 
 
 ----
 ## Hyperspectral Image Analysis
-* \[2022\] 稀疏优化二阶算法研究进展 [[paper](https://computmath.cjoe.ac.cn/szjs/CN/10.12288/szjs.s2021-0759)]
-* \[2020\] 稀疏优化理论与算法若干新进展 [[paper](https://www.ort.shu.edu.cn/CN/10.15960/j.cnki.issn.1007-6093.2020.04.001)]
-
+- \[2022\] 稀疏优化二阶算法研究进展 [[paper](https://computmath.cjoe.ac.cn/szjs/CN/10.12288/szjs.s2021-0759)]
+- \[2020\] 稀疏优化理论与算法若干新进展 [[paper](https://www.ort.shu.edu.cn/CN/10.15960/j.cnki.issn.1007-6093.2020.04.001)]
+- \[2023\] Revisiting Lq (0<=q<1) norm regularized optimization [[paper](https://arxiv.org/abs/2306.14394)] [[code](https://github.com/ShenglongZhou/PSNP)]
 #### Datasets  
 - [CAVE dataset](http://www.cs.columbia.edu/CAVE/databases/multispectral/)
 - [Harvard dataset](http://vision.seas.harvard.edu/hyperspec/download.html)
@@ -29,7 +29,7 @@ We foucs on model-data-driven methods in various pattern recognition application
 - Erreur Relative Globale Adimensionnelle de Synthèse (ERGAS)
 - Feature SIMilarity index (FSIM)
 
-- 
+  
 #### Reference  
 - [Hyperspectral-Image-Denoising-Benchmark](https://github.com/junjun-jiang/Hyperspectral-Image-Denoising-Benchmark)
 - [Hyperspectral Denoising algorithm toolbox in Python](https://github.com/Helmholtz-AI-Energy/HyDe)
@@ -37,18 +37,11 @@ We foucs on model-data-driven methods in various pattern recognition application
 - [Hyperspectral Remote Sensing Scenes](http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes)
 
 ----
+## Chip Defect Inspection
 
 ----
-### Chip Defect Inspection
-- \[2023\] Revisiting Lq (0<=q<1) norm regularized optimization [[paper](https://arxiv.org/abs/2306.14394)] [[code](https://github.com/ShenglongZhou/PSNP)]
+## Intelligent Fault Diagnosis
 
-----
-
-----
-### Intelligent Fault Diagnosis
-- \[2023\] Revisiting Lq (0<=q<1) norm regularized optimization [[paper](https://arxiv.org/abs/2306.14394)] [[code](https://github.com/ShenglongZhou/PSNP)]
-
-----
 
 
 
