@@ -8,7 +8,7 @@
 ### Unmixing
 * [2023] Hyperspectral Unmixing Using Higher-Order Graph Regularized NMF With Adaptive Feature Selection, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/10124031)]
 * [2022] SNMF-Net: Learning a Deep Alternating Neural Network for Hyperspectral Unmixing, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9444347)] [[code](https://github.com/yxhnjust/F3Net)] 
-* [2022] A Plug-and-Play Priors Framework for Hyperspectral Unmixing, IEEE TGRS [[paper]([https://ieeexplore.ieee.org/abstract/document/9444347](https://ieeexplore.ieee.org/abstract/document/932504))] [[code](https://github.com/xiuheng-wang/Plug_and_Play_HSI_unmixing)] 
+* [2022] A Plug-and-Play Priors Framework for Hyperspectral Unmixing, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/932504)] [[code](https://github.com/xiuheng-wang/Plug_and_Play_HSI_unmixing)] 
 * [2021] Nonlocal Tensor-Based Sparse Hyperspectral Unmixing, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9239255)]
 * [2018] Hyperspectral Unmixing Using Sparsity-Constrained Deep Nonnegative Matrix Factorization With Total Variation, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/8372956)]
 * [2017] Spatial Group Sparsity Regularized Nonnegative Matrix Factorization for Hyperspectral Unmixing, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/7995123)][[code](https://github.com/YW81/TGRS17-SGSNMF)] 
