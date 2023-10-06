@@ -1,4 +1,4 @@
-# Sparse Optimization: Algorithm
+# Sparse Optimization
 
 ----
 
