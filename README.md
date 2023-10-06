@@ -5,11 +5,11 @@
 ----
 ## Hyperspectral Image Analysis
 
-#### Unmixing
+### Unmixing
 
-SNMF-Net: Learning a Deep Alternating Neural Network for Hyperspectral Unmixing, IEEE TGRS 2022 [[paper](https://ieeexplore.ieee.org/abstract/document/9444347)]
+* SNMF-Net: Learning a Deep Alternating Neural Network for Hyperspectral Unmixing, IEEE TGRS 2022 [[paper](https://ieeexplore.ieee.org/abstract/document/9444347)]
 
-#### Denoising
+### Denoising
 
 * SMDS-Net: Model Guided Spectral-Spatial Network for Hyperspectral Image Denoising, IEEE TIP 2022 [[paper](https://ieeexplore.ieee.org/abstract/document/9855427)]
 * LR-Net: Low-Rank Spatial-Spectral Network for Hyperspectral Image Denoising, IEEE TIP 2021 [[paper](https://ieeexplore.ieee.org/abstract/document/9580717)]
@@ -17,13 +17,13 @@ SNMF-Net: Learning a Deep Alternating Neural Network for Hyperspectral Unmixing,
 
 
 
-#### Fusion
+### Fusion
 
 * LRRNet: A Novel Representation Learning Guided Fusion Network for Infrared and Visible Images, IEEE TPAMI 2023 [[paper](https://ieeexplore.ieee.org/abstract/document/10105495)]
 * MHF-Net: An Interpretable Deep Network for Multispectral and Hyperspectral Image Fusion, IEEE TPAMI 2022 [[paper](https://ieeexplore.ieee.org/abstract/document/9165231)]
 * NMF-DuNet: Nonnegative Matrix Factorization Inspired Deep Unrolling Networks for Hyperspectral and Multispectral Image Fusion, IEEE JSTARS 2022 [[paper](https://ieeexplore.ieee.org/abstract/document/9822395)]
 
-#### Anomaly Detection
+### Anomaly Detection
 * Learning Tensor Low-Rank Representation for Hyperspectral Anomaly Detection, IEEE TC 2023 [[paper](https://ieeexplore.ieee.org/abstract/document/9781337)]
 * LRR-Net: An Interpretable Deep Unfolding Network for Hyperspectral Anomaly Detection, IEEE TGRS 2023 [[paper](https://ieeexplore.ieee.org/abstract/document/10136197)]
 * Hyperspectral Anomaly Detection via Structured Sparsity Plus Enhanced Low-Rankness, IEEE TGRS 2023 [[paper](https://ieeexplore.ieee.org/abstract/document/10148989)]
@@ -35,7 +35,7 @@ SNMF-Net: Learning a Deep Alternating Neural Network for Hyperspectral Unmixing,
 * Anomaly Detection in Hyperspectral Images Based on Low-Rank and Sparse Representation, IEEE TGRS 2016 [[paper](https://ieeexplore.ieee.org/abstract/document/7322257)]
 
 
-#### Datasets  
+### Datasets  
 * CAVE [[link](http://www.cs.columbia.edu/CAVE/databases/multispectral/)]
 * Harvard [[link](http://vision.seas.harvard.edu/hyperspec/download.html)]
 * ICVL [[link](http://icvl.cs.bgu.ac.il/hyperspectral/)]
@@ -47,7 +47,7 @@ SNMF-Net: Learning a Deep Alternating Neural Network for Hyperspectral Unmixing,
 * NTIRE18 [[link](http://www.vision.ee.ethz.ch/ntire18/)]
 
 
-#### Other Resources
+### Other Resources
 * https://openremotesensing.net/
 * https://sites.google.com/view/danfeng-hong/home
 
