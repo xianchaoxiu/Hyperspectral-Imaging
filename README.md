@@ -2,7 +2,7 @@
 
 `We foucs on model-data-driven methods in various pattern recognition applications, such as hyperspectral image analysis, chip defect inspection, and intelligent fault diagnosis.`
 
-----
+
 ## Hyperspectral Image Analysis
 
 ### Unmixing
