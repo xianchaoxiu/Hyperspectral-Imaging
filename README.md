@@ -2,7 +2,7 @@
 
 We foucs on model-data-driven methods in various pattern recognition applications, including 
 - Hyperspectral Imaging
-- Chip Defect Detection
+- Multi-view Representation
 
 <strong>Last Update: October, 2023</strong>
 
@@ -80,12 +80,7 @@ We foucs on model-data-driven methods in various pattern recognition application
 
 
 
-## Chip Defect Detection
-- [2022] 芯片缺陷检测综述, 现代制造技术与装备 [[paper](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XQsXiZp54uNQm1PJ9A5EscVpRwpbWtJVIJY8ssXy0kfQ&uniplatform=NZKPT)]
-- [2022] Small Object Detection Method With Shallow Feature Fusion Network for Chip Surface Defect Detection, Nature SR [[paper](https://www.nature.com/articles/s41598-022-07654-x)]
-- [2018] A NMF-Based Image Restoration Scheme With Applications to LED Integrated Substrate Defect Detection, IEEE TSM [[paper](https://ieeexplore.ieee.org/abstract/document/8456620)]
-
-
+## Multi-view Representation
 
 ### Surveys
 - [2023] Towards Large-Scale Small Object Detection: Survey and Benchmarks, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/10168277)]
@@ -93,6 +88,6 @@ We foucs on model-data-driven methods in various pattern recognition application
 - [2022] 工业缺陷检测深度学习方法综述, 中国科学 [[paper](http://scis.scichina.com/cn/2022/SSI-2021-0336.pdf)]
 - [2022] 图像异常检测研究现状综述, 自动化学报 [[paper](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c200956)]
 
-
+### CCA
 
 
