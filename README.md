@@ -26,9 +26,10 @@ We foucs on model-data-driven methods in various pattern recognition application
 - [2022] SNMF-Net: Learning a Deep Alternating Neural Network for Hyperspectral Unmixing, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9444347)] [[code](https://github.com/yxhnjust/F3Net)] 
 - [2022] A Plug-and-Play Priors Framework for Hyperspectral Unmixing, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/932504)] [[code](https://github.com/xiuheng-wang/Plug_and_Play_HSI_unmixing)] 
 - [2021] Nonlocal Tensor-Based Sparse Hyperspectral Unmixing, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9239255)]
+- [2021] Sparsity-Enhanced Convolutional Decomposition: A Novel Tensor-Based Paradigm for Blind Hyperspectral Unmixing, IEEE TGRS [[paper](https://ieeexplore.ieee.org/document/9399660)][[code](https://openremotesensing.net/knowledgebase/sparsity-enhanced-convolutional-decomposition-a-novel-tensor-based-paradigm-for-blind-hyperspectral-unmixing/)] 
 - [2018] Hyperspectral Unmixing Using Sparsity-Constrained Deep Nonnegative Matrix Factorization With Total Variation, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/8372956)]
 - [2017] Spatial Group Sparsity Regularized Nonnegative Matrix Factorization for Hyperspectral Unmixing, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/7995123)][[code](https://github.com/YW81/TGRS17-SGSNMF)] 
-
+- [2017] SRCMF: Robust Constrained Matrix Factorization for Hyperspectral Unmixing, IEEE TGRS [[paper](https://ieeexplore.ieee.org/document/7875072)][[code](https://openremotesensing.net/knowledgebase/rcmf-robust-constrained-matrix-factorization-for-hyperspectral-unmixing/)] 
 
 ### Denoising
 - [2023] Hyperspectral Image Denoising via Weighted Multidirectional Low-Rank Tensor Recovery, IEEE TC [[paper](https://ieeexplore.ieee.org/abstract/document/9920675)]
@@ -38,19 +39,30 @@ We foucs on model-data-driven methods in various pattern recognition application
 - [2022] Fast Noise Removal in Hyperspectral Images via Representative Coefficient Total Variation, IEEE TGRS  [[paper](https://ieeexplore.ieee.org/abstract/document/9989343)]
 - [2022] Hyperspectral Image Denoising by Asymmetric Noise Modeling, IEEE TGRS  [[paper](https://ieeexplore.ieee.org/abstract/document/9975834)]
 - [2022] Adaptive Rank and Structured Sparsity Corrections for Hyperspectral Image Restoration, IEEE TC [[paper](https://ieeexplore.ieee.org/abstract/document/9359537)]
+- [2022] Multigraph-Based Low-Rank Tensor Approximation for Hyperspectral Image Restoration, IEEE TGRS  [[paper](https://ieeexplore.ieee.org/document/9781310)] [[code](https://openremotesensing.net/knowledgebase/tensor-low-rank-constraint-and-l0-total-variation-for-hyperspectral-image-mixed-noise-removal/)] 
 - [2021] LR-Net: Low-Rank Spatial-Spectral Network for Hyperspectral Image Denoising, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/9580717)]
-- [2021] A Trainable Spectral-Spatial Sparse Coding Model for Hyperspectral Image Restoration, NeurIPS  [[paper](https://proceedings.neurips.cc/paper/2021/hash/2b515e2bdd63b7f034269ad747c93a42-Abstract.html)][[code](https://github.com/inria-thoth/T3SC)]  
-- [2021] MAC-Net: Model Aided Nonlocal Neural Network for Hyperspectral Image Denoising, IEEE TGRS  [[paper](https://ieeexplore.ieee.org/abstract/document/9631264)] [[code](https://github.com/bearshng/mac-net)] 
+- [2021] A Trainable Spectral-Spatial Sparse Coding Model for Hyperspectral Image Restoration, NeurIPS  [[paper](https://proceedings.neurips.cc/paper/2021/hash/2b515e2bdd63b7f034269ad747c93a42-Abstract.html)][[code](https://github.com/inria-thoth/T3SC)]
+- [2021] l0-l1 Hybrid Total Variation Regularization and its Applications on Hyperspectral Image Mixed Noise Removal and Compressed Sensing, IEEE TGRS  [[paper](https://ieeexplore.ieee.org/document/9354456)] [[code](https://openremotesensing.net/knowledgebase/l%e2%82%80-l%e2%82%81-hybrid-total-variation-regularization-and-its-applications-on-hyperspectral-image-mixed-noise-removal-and-compressed-sensing/)] 
+- [2021] MAC-Net: Model Aided Nonlocal Neural Network for Hyperspectral Image Denoising, IEEE TGRS  [[paper](https://ieeexplore.ieee.org/abstract/document/9631264)] [[code](https://github.com/bearshng/mac-net)]
+- [2021] Total Variation Regularized Weighted Tensor Ring Decomposition for Missing Data Recovery in High-Dimensional Optical Remote Sensing Images, IEEE GRSL  [[paper](https://ieeexplore.ieee.org/document/9399661)] [[code](https://openremotesensing.net/knowledgebase/total-variation-regularized-weighted-tensor-ring-decomposition-for-missing-data-recovery-in-high-dimensional-optical-remote-sensing-images/)]
 - [2021] Hyperspectral Image Denoising via Low-Rank Representation and CNN Denoiser, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/document/9664348)]
 - [2020] Hyperspectral image restoration via CNN denoiser prior regularized low-rank tensor recovery, CVIU [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314220300710)] [[code](https://github.com/NavyZeng/DPLRTA)] 
 - [2019] Hyperspectral Image Denoising via Matrix Factorization and Deep Prior Regularization, IEEE TIP [[paper](https://ieeexplore.ieee.org/document/8767025)]
 - [2018] Hyperspectral Image Restoration Via Total Variation Regularized Low-Rank Tensor Decomposition, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/abstract/document/8233403)]
 [[code](https://github.com/zhaoxile/Hyperspectral-Image-Restoration-via-Total-Variation-Regularized-Low-rank-Tensor-Decomposition)] 
+- [2018] Noise Reduction in Hyperspectral Imagery: Overview and Application, RS [[paper](https://www.mdpi.com/2072-4292/10/3/482)]
+[[code](https://openremotesensing.net/knowledgebase/noise-reduction-in-hyperspectral-imagery-overview-and-application/)] 
+
 
 ### Fusion
 - [2023] LRRNet: A Novel Representation Learning Guided Fusion Network for Infrared and Visible Images, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/10105495)] [[code](https://github.com/hli1221/imagefusion-LRRNet)] 
 - [2022] MHF-Net: An Interpretable Deep Network for Multispectral and Hyperspectral Image Fusion, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/9165231)] [[code](https://github.com/XieQi2015/MHF-net)] 
 - [2022] NMF-DuNet: Nonnegative Matrix Factorization Inspired Deep Unrolling Networks for Hyperspectral and Multispectral Image Fusion, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/abstract/document/9822395)]
+- [2021] Hyperspectral Restoration and Fusion with Multispectral Imagery by Recasting Low-Rank Tensor Approximation, IEEE TGRS [[paper](https://ieeexplore.ieee.org/document/9328229)] [[code](https://openremotesensing.net/knowledgebase/hyperspectral-restoration-and-fusion-with-multispectral-imagery-by-recasting-low-rank-tensor-approximation/)]
+
+
+
+
 
 ### Anomaly Detection
 - [2023] Learning Tensor Low-Rank Representation for Hyperspectral Anomaly Detection, IEEE TC [[paper](https://ieeexplore.ieee.org/abstract/document/9781337)]
@@ -83,11 +95,8 @@ We foucs on model-data-driven methods in various pattern recognition application
 ## Multi-view Representation
 
 ### Surveys
-- [2023] Towards Large-Scale Small Object Detection: Survey and Benchmarks, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/10168277)]
-- [2023] Object Detection in 20 Years: A Survey, P IEEE [[paper](https://ieeexplore.ieee.org/abstract/document/10028728)]
-- [2022] 工业缺陷检测深度学习方法综述, 中国科学 [[paper](http://scis.scichina.com/cn/2022/SSI-2021-0336.pdf)]
-- [2022] 图像异常检测研究现状综述, 自动化学报 [[paper](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c200956)]
 
-### CCA
+
+### Tensor CCA
 
 
