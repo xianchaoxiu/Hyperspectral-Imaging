@@ -4,11 +4,8 @@ We foucs on model-data-driven methods in various pattern recognition application
 * Hyperspectral Imaging
 * Chip Defect Detection
 
-If you have any suggestions, please feel free to contact me.
+<strong>Last Update: October, 2023</strong>
 
-Update: 2023-10-06 
-
-----
 
 ## Hyperspectral Imaging
 
@@ -16,7 +13,7 @@ Update: 2023-10-06
 * [2023] Remote Sensing Object Detection Meets Deep Learning: A Meta-review of Challenges and Advances, arXiv [[paper](https://arxiv.org/abs/2309.06751)]
 * [2023] A survey on hyperspectral image restoration: from the view of low-rank tensor approximation, SIIS [[paper](https://link.springer.com/article/10.1007/s11432-022-3609-4)]
 * [2023] Multispectral and hyperspectral image fusion in remote sensing: A survey, IF [[paper](https://www.sciencedirect.com/science/article/pii/S1566253522001312)]
-* Image Denoising: The Deep Learning Revolution and Beyond- A Survey Paper, SIIMS  [[paper](https://epubs.siam.org/doi/abs/10.1137/23M1545859)]
+* [2023] Image Denoising: The Deep Learning Revolution and Beyond- A Survey Paper, SIIMS  [[paper](https://epubs.siam.org/doi/abs/10.1137/23M1545859)]
 * [2023] Hyperspectral Image Denoising: From Model-Driven, Data-Driven, to Model-Data-Driven, IEEE TNNLS [[paper](https://ieeexplore.ieee.org/abstract/document/10144690)]
 * [2022] Hyperspectral Unmixing Based on Nonnegative Matrix Factorization: A Comprehensive Review
 * [2022] Hyperspectral Anomaly Detection Based on Machine Learning: An Overview, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/abstract/document/9760098)]
@@ -81,7 +78,7 @@ Update: 2023-10-06
 * NTIRE18 [[link](http://www.vision.ee.ethz.ch/ntire18/)]
 
 
-----
+
 
 ## Chip Defect Detection
 * [2022] 芯片缺陷检测综述, 现代制造技术与装备 [[paper](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XQsXiZp54uNQm1PJ9A5EscVpRwpbWtJVIJY8ssXy0kfQ&uniplatform=NZKPT)]
