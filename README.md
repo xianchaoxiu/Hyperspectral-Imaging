@@ -6,18 +6,22 @@
 ## Hyperspectral Image Analysis
 
 ### Unmixing
+* [2023] Hyperspectral Unmixing Using Higher-Order Graph Regularized NMF With Adaptive Feature Selection, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/10124031)]
+* [2022] SNMF-Net: Learning a Deep Alternating Neural Network for Hyperspectral Unmixing, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9444347)] [[code](https://github.com/yxhnjust/F3Net)] 
+* [2022] A Plug-and-Play Priors Framework for Hyperspectral Unmixing, IEEE TGRS [[paper]([https://ieeexplore.ieee.org/abstract/document/9444347](https://ieeexplore.ieee.org/abstract/document/932504))] [[code](https://github.com/xiuheng-wang/Plug_and_Play_HSI_unmixing)] 
+* [2021] Nonlocal Tensor-Based Sparse Hyperspectral Unmixing, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9239255)]
+* [2018] Hyperspectral Unmixing Using Sparsity-Constrained Deep Nonnegative Matrix Factorization With Total Variation, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/8372956)]
+* [2017] Spatial Group Sparsity Regularized Nonnegative Matrix Factorization for Hyperspectral Unmixing, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/7995123)][[code](https://github.com/YW81/TGRS17-SGSNMF)] 
 
-* SNMF-Net: Learning a Deep Alternating Neural Network for Hyperspectral Unmixing, IEEE TGRS 2022 [[paper](https://ieeexplore.ieee.org/abstract/document/9444347)]
 
 ### Denoising
-* [2023] A survey on hyperspectral image restoration: from the view of low-rank tensor approximation, SIIS [[paper](https://link.springer.com/article/10.1007/s11432-022-3609-4)]
-* [2023] Hyperspectral Image Denoising: From Model-Driven, Data-Driven, to Model-Data-Driven, IEEE TNNLS [[paper](https://ieeexplore.ieee.org/abstract/document/10144690)]
 * [2023] Hyperspectral Image Denoising via Weighted Multidirectional Low-Rank Tensor Recovery, IEEE TC [[paper](https://ieeexplore.ieee.org/abstract/document/9920675)]
 * [2023] Nonlocal Structured Sparsity Regularization Modeling for Hyperspectral Image Denoising, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/10106506)]
 * [2023] Multitask Sparse Representation Model-Inspired Network for Hyperspectral Image Denoising, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/10198268)]
-* [2022] SMDS-Net: Model Guided Spectral-Spatial Network for Hyperspectral Image Denoising, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/9855427)]
+* [2022] SMDS-Net: Model Guided Spectral-Spatial Network for Hyperspectral Image Denoising, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/9855427)] [[code](https://github.com/bearshng/smds-net)]  
 * [2022] Fast Noise Removal in Hyperspectral Images via Representative Coefficient Total Variation, IEEE TGRS  [[paper](https://ieeexplore.ieee.org/abstract/document/9989343)]
 * [2022] Hyperspectral Image Denoising by Asymmetric Noise Modeling, IEEE TGRS  [[paper](https://ieeexplore.ieee.org/abstract/document/9975834)]
+* [2022] Adaptive Rank and Structured Sparsity Corrections for Hyperspectral Image Restoration, IEEE TC [[paper](https://ieeexplore.ieee.org/abstract/document/9359537)]
 * [2021] LR-Net: Low-Rank Spatial-Spectral Network for Hyperspectral Image Denoising, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/9580717)]
 * [2021] A Trainable Spectral-Spatial Sparse Coding Model for Hyperspectral Image Restoration, NeurIPS  [[paper](https://proceedings.neurips.cc/paper/2021/hash/2b515e2bdd63b7f034269ad747c93a42-Abstract.html)][[code](https://github.com/inria-thoth/T3SC)]  
 * [2021] MAC-Net: Model Aided Nonlocal Neural Network for Hyperspectral Image Denoising, IEEE TGRS  [[paper](https://ieeexplore.ieee.org/abstract/document/9631264)] [[code](https://github.com/bearshng/mac-net)] 
@@ -27,23 +31,30 @@
 * [2018] Hyperspectral Image Restoration Via Total Variation Regularized Low-Rank Tensor Decomposition, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/abstract/document/8233403)]
 [[code](https://github.com/zhaoxile/Hyperspectral-Image-Restoration-via-Total-Variation-Regularized-Low-rank-Tensor-Decomposition)] 
 
-
 ### Fusion
-
-* LRRNet: A Novel Representation Learning Guided Fusion Network for Infrared and Visible Images, IEEE TPAMI 2023 [[paper](https://ieeexplore.ieee.org/abstract/document/10105495)]
-* MHF-Net: An Interpretable Deep Network for Multispectral and Hyperspectral Image Fusion, IEEE TPAMI 2022 [[paper](https://ieeexplore.ieee.org/abstract/document/9165231)]
-* NMF-DuNet: Nonnegative Matrix Factorization Inspired Deep Unrolling Networks for Hyperspectral and Multispectral Image Fusion, IEEE JSTARS 2022 [[paper](https://ieeexplore.ieee.org/abstract/document/9822395)]
+* [2023] LRRNet: A Novel Representation Learning Guided Fusion Network for Infrared and Visible Images, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/10105495)] [[code](https://github.com/hli1221/imagefusion-LRRNet)] 
+* [2022] MHF-Net: An Interpretable Deep Network for Multispectral and Hyperspectral Image Fusion, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/9165231)] [[code](https://github.com/XieQi2015/MHF-net)] 
+* [2022] NMF-DuNet: Nonnegative Matrix Factorization Inspired Deep Unrolling Networks for Hyperspectral and Multispectral Image Fusion, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/abstract/document/9822395)]
 
 ### Anomaly Detection
-* Learning Tensor Low-Rank Representation for Hyperspectral Anomaly Detection, IEEE TC 2023 [[paper](https://ieeexplore.ieee.org/abstract/document/9781337)]
-* LRR-Net: An Interpretable Deep Unfolding Network for Hyperspectral Anomaly Detection, IEEE TGRS 2023 [[paper](https://ieeexplore.ieee.org/abstract/document/10136197)]
-* Hyperspectral Anomaly Detection via Structured Sparsity Plus Enhanced Low-Rankness, IEEE TGRS 2023 [[paper](https://ieeexplore.ieee.org/abstract/document/10148989)]
-* Deep Low-Rank Prior for Hyperspectral Anomaly Detection, IEEE TGRS 2022 [[paper](https://ieeexplore.ieee.org/abstract/document/9756439)]
-* Prior-Based Tensor Approximation for Anomaly Detection in Hyperspectral Imagery, IEEE TNNLS 2022 [[paper](https://ieeexplore.ieee.org/abstract/document/9288702)][[code](https://github.com/l7170/PTA-HAD.git)]  
-* Hyperspectral Anomaly Detection Based on Machine Learning: An Overview, IEEE JSTARS 2022[[paper](https://ieeexplore.ieee.org/abstract/document/9760098)]
-* Tensor Decomposition-Inspired Convolutional Autoencoders for Hyperspectral Anomaly Detection, IEEE JSTARS 2022 [[paper](https://ieeexplore.ieee.org/abstract/document/9802669)]
-* Hyperspectral Anomaly Detection via Deep Plug-and-Play Denoising CNN Regularization, IEEE TGRS 2021 [[paper](https://ieeexplore.ieee.org/abstract/document/9329138)][[code](https://github.com/FxyPd)]
-* Anomaly Detection in Hyperspectral Images Based on Low-Rank and Sparse Representation, IEEE TGRS 2016 [[paper](https://ieeexplore.ieee.org/abstract/document/7322257)]
+* [2023] Learning Tensor Low-Rank Representation for Hyperspectral Anomaly Detection, IEEE TC [[paper](https://ieeexplore.ieee.org/abstract/document/9781337)]
+* [2023] LRR-Net: An Interpretable Deep Unfolding Network for Hyperspectral Anomaly Detection, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/10136197)]
+* [2023] Hyperspectral Anomaly Detection via Structured Sparsity Plus Enhanced Low-Rankness, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/10148989)]
+* [2022] Deep Low-Rank Prior for Hyperspectral Anomaly Detection, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9756439)]
+* [2022] Prior-Based Tensor Approximation for Anomaly Detection in Hyperspectral Imagery, IEEE TNNLS [[paper](https://ieeexplore.ieee.org/abstract/document/9288702)][[code](https://github.com/l7170/PTA-HAD.git)]  
+* [2022] Tensor Decomposition-Inspired Convolutional Autoencoders for Hyperspectral Anomaly Detection, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/abstract/document/9802669)]
+* [2021] Hyperspectral Anomaly Detection via Deep Plug-and-Play Denoising CNN Regularization, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9329138)][[code](https://github.com/FxyPd)]
+* [2020] Graph and Total Variation Regularized Low-Rank Representation for Hyperspectral Anomaly Detection, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/8833518)]
+* [2016] Anomaly Detection in Hyperspectral Images Based on Low-Rank and Sparse Representation, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/7322257)][[code](https://github.com/axiqia/Anomaly-Detection-in-Hyperspectral-Images-Based-on-Low-Rank-and-Sparse-Representation)]
+*[2016] A Tensor Decomposition-Based Anomaly Detection Algorithm for Hyperspectral Image, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/7493677)]
+
+### Surveys
+* [2023] A survey on hyperspectral image restoration: from the view of low-rank tensor approximation, SIIS [[paper](https://link.springer.com/article/10.1007/s11432-022-3609-4)]
+* [2023] Hyperspectral Image Denoising: From Model-Driven, Data-Driven, to Model-Data-Driven, IEEE TNNLS [[paper](https://ieeexplore.ieee.org/abstract/document/10144690)]
+* [2022] Hyperspectral Unmixing Based on Nonnegative Matrix Factorization: A Comprehensive Review
+* [2022] Hyperspectral Anomaly Detection Based on Machine Learning: An Overview, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/abstract/document/9760098)]
+* [2022] Hyperspectral anomaly detection: A survey, IEEE GRSM [[paper](https://ieeexplore.ieee.org/document/9532003)]
+* [2022] Hyperspectral Anomaly Detection Using Deep Learning: A Review, RS [[paper](https://www.mdpi.com/2072-4292/14/9/1973)]
 
 
 ### Datasets  
