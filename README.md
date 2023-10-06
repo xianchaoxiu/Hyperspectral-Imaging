@@ -6,6 +6,8 @@ We foucs on model-data-driven methods in various pattern recognition application
 
 If you have any suggestions, please feel free to contact me.
 
+Update: 2023-10-06 
+
 ----
 
 ## Hyperspectral Imaging
@@ -79,8 +81,8 @@ If you have any suggestions, please feel free to contact me.
 * NTIRE18 [[link](http://www.vision.ee.ethz.ch/ntire18/)]
 
 
-  
 ----
+
 ## Chip Defect Detection
 * [2022] 芯片缺陷检测综述, 现代制造技术与装备 [[paper](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XQsXiZp54uNQm1PJ9A5EscVpRwpbWtJVIJY8ssXy0kfQ&uniplatform=NZKPT)]
 * [2022] Small Object Detection Method With Shallow Feature Fusion Network for Chip Surface Defect Detection, Nature SR [[paper](https://www.nature.com/articles/s41598-022-07654-x)]
@@ -96,4 +98,4 @@ If you have any suggestions, please feel free to contact me.
 
 
 
-Update 2023/10/6
+
