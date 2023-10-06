@@ -1,7 +1,8 @@
 # Model-Data-Driven Pattern Recognition 
 
-`We foucs on model-data-driven methods in various pattern recognition applications, such as hyperspectral image analysis, chip defect inspection, and intelligent fault diagnosis.`
+`We foucs on model-data-driven methods in various pattern recognition applications.`
 
+----
 
 ## Hyperspectral Image Analysis
 
