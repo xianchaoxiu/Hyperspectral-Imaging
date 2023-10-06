@@ -28,7 +28,7 @@ SNMF-Net: Learning a Deep Alternating Neural Network for Hyperspectral Unmixing,
 * LRR-Net: An Interpretable Deep Unfolding Network for Hyperspectral Anomaly Detection, IEEE TGRS 2023 [[paper](https://ieeexplore.ieee.org/abstract/document/10136197)]
 * Hyperspectral Anomaly Detection via Structured Sparsity Plus Enhanced Low-Rankness, IEEE TGRS 2023 [[paper](https://ieeexplore.ieee.org/abstract/document/10148989)]
 * Deep Low-Rank Prior for Hyperspectral Anomaly Detection, IEEE TGRS 2022 [[paper](https://ieeexplore.ieee.org/abstract/document/9756439)]
-* Prior-Based Tensor Approximation for Anomaly Detection in Hyperspectral Imagery, IEEE TNNLS 2022 [[paper](https://ieeexplore.ieee.org/abstract/document/9288702)]
+* Prior-Based Tensor Approximation for Anomaly Detection in Hyperspectral Imagery, IEEE TNNLS 2022 [[paper](https://ieeexplore.ieee.org/abstract/document/9288702)][[code](https://github.com/l7170/PTA-HAD.git)]  
 * Hyperspectral Anomaly Detection Based on Machine Learning: An Overview, IEEE JSTARS 2022[[paper](https://ieeexplore.ieee.org/abstract/document/9760098)]
 * Tensor Decomposition-Inspired Convolutional Autoencoders for Hyperspectral Anomaly Detection, IEEE JSTARS 2022 [[paper](https://ieeexplore.ieee.org/abstract/document/9802669)]
 * Hyperspectral Anomaly Detection via Deep Plug-and-Play Denoising CNN Regularization, IEEE TGRS 2021 [[paper](https://ieeexplore.ieee.org/abstract/document/9329138)][[code](https://github.com/FxyPd)]
@@ -45,6 +45,11 @@ SNMF-Net: Learning a Deep Alternating Neural Network for Hyperspectral Unmixing,
 * EO-1 Hyperion[[link](https://lta.cr.usgs.gov/ALI)]
 * NUS [[link](https://sites.google.com/site/hyperspectralcolorimaging/dataset/general-scenes)]
 * NTIRE18 [[link](http://www.vision.ee.ethz.ch/ntire18/)]
+
+
+#### Other Resources
+* https://openremotesensing.net/
+* https://sites.google.com/view/danfeng-hong/home
 
   
 ----
