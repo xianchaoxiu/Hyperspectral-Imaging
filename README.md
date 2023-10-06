@@ -1,10 +1,14 @@
 # Model-Data-Driven Pattern Recognition 
 
-`We foucs on model-data-driven methods in various pattern recognition applications.`
+We foucs on model-data-driven methods in various pattern recognition applications, including 
+* Hyperspectral Imaging
+* Chip Defect Detection
+
+If you have any suggestions, please feel free to contact me.
 
 ----
 
-## Hyperspectral Image Analysis
+## Hyperspectral Imaging
 
 ### Unmixing
 * [2023] Hyperspectral Unmixing Using Higher-Order Graph Regularized NMF With Adaptive Feature Selection, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/10124031)]
