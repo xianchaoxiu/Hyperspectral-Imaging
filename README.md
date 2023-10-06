@@ -49,7 +49,10 @@
 * [2016] A Tensor Decomposition-Based Anomaly Detection Algorithm for Hyperspectral Image, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/7493677)]
 
 ### Surveys
+* [2023] Remote Sensing Object Detection Meets Deep Learning: A Meta-review of Challenges and Advances, arXiv [[paper](https://arxiv.org/abs/2309.06751)]
 * [2023] A survey on hyperspectral image restoration: from the view of low-rank tensor approximation, SIIS [[paper](https://link.springer.com/article/10.1007/s11432-022-3609-4)]
+* [2023] Multispectral and hyperspectral image fusion in remote sensing: A survey, IF [[paper](https://www.sciencedirect.com/science/article/pii/S1566253522001312)]
+* Image Denoising: The Deep Learning Revolution and Beyond- A Survey Paper, SIIMS  [[paper](https://epubs.siam.org/doi/abs/10.1137/23M1545859)]
 * [2023] Hyperspectral Image Denoising: From Model-Driven, Data-Driven, to Model-Data-Driven, IEEE TNNLS [[paper](https://ieeexplore.ieee.org/abstract/document/10144690)]
 * [2022] Hyperspectral Unmixing Based on Nonnegative Matrix Factorization: A Comprehensive Review
 * [2022] Hyperspectral Anomaly Detection Based on Machine Learning: An Overview, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/abstract/document/9760098)]
@@ -76,10 +79,18 @@
   
 ----
 ## Chip Defect Detection
-
-----
-## Intelligent Fault Diagnosis
-
-
+* [2022] 芯片缺陷检测综述, 现代制造技术与装备 [[paper](https://www.nature.com/articles/s41598-022-07654-x)]**
+* [2022] Small Object Detection Method With Shallow Feature Fusion Network for Chip Surface Defect Detection, Nature SR [[paper](https://www.nature.com/articles/s41598-022-07654-x)]
+* [2018] A NMF-Based Image Restoration Scheme With Applications to LED Integrated Substrate Defect Detection, IEEE TSM [[paper](https://ieeexplore.ieee.org/abstract/document/8456620)]
 
 
+
+### Surveys
+* [2023] Towards Large-Scale Small Object Detection: Survey and Benchmarks, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/10168277)]
+* [2023] Object Detection in 20 Years: A Survey, P IEEE [[paper](https://ieeexplore.ieee.org/abstract/document/10028728)]
+* [2022] 工业缺陷检测深度学习方法综述, 中国科学 [[paper](http://scis.scichina.com/cn/2022/SSI-2021-0336.pdf)]
+* [2022] 图像异常检测研究现状综述, 自动化学报 [[paper](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c200956)]
+
+
+
+Update 2023/10/6
