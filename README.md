@@ -37,7 +37,7 @@
 - [Hyperspectral Remote Sensing Scenes](http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes)
 
 ----
-## Chip Defect Inspection
+## Chip Defect Detection
 
 ----
 ## Intelligent Fault Diagnosis
