@@ -10,6 +10,18 @@ If you have any suggestions, please feel free to contact me.
 
 ## Hyperspectral Imaging
 
+### Surveys
+* [2023] Remote Sensing Object Detection Meets Deep Learning: A Meta-review of Challenges and Advances, arXiv [[paper](https://arxiv.org/abs/2309.06751)]
+* [2023] A survey on hyperspectral image restoration: from the view of low-rank tensor approximation, SIIS [[paper](https://link.springer.com/article/10.1007/s11432-022-3609-4)]
+* [2023] Multispectral and hyperspectral image fusion in remote sensing: A survey, IF [[paper](https://www.sciencedirect.com/science/article/pii/S1566253522001312)]
+* Image Denoising: The Deep Learning Revolution and Beyond- A Survey Paper, SIIMS  [[paper](https://epubs.siam.org/doi/abs/10.1137/23M1545859)]
+* [2023] Hyperspectral Image Denoising: From Model-Driven, Data-Driven, to Model-Data-Driven, IEEE TNNLS [[paper](https://ieeexplore.ieee.org/abstract/document/10144690)]
+* [2022] Hyperspectral Unmixing Based on Nonnegative Matrix Factorization: A Comprehensive Review
+* [2022] Hyperspectral Anomaly Detection Based on Machine Learning: An Overview, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/abstract/document/9760098)]
+* [2022] Hyperspectral anomaly detection: A survey, IEEE GRSM [[paper](https://ieeexplore.ieee.org/document/9532003)]
+* [2022] Hyperspectral Anomaly Detection Using Deep Learning: A Review, RS [[paper](https://www.mdpi.com/2072-4292/14/9/1973)]
+
+
 ### Unmixing
 * [2023] Hyperspectral Unmixing Using Higher-Order Graph Regularized NMF With Adaptive Feature Selection, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/10124031)]
 * [2022] SNMF-Net: Learning a Deep Alternating Neural Network for Hyperspectral Unmixing, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9444347)] [[code](https://github.com/yxhnjust/F3Net)] 
@@ -53,16 +65,6 @@ If you have any suggestions, please feel free to contact me.
 * [2016] Anomaly Detection in Hyperspectral Images Based on Low-Rank and Sparse Representation, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/7322257)][[code](https://github.com/axiqia/Anomaly-Detection-in-Hyperspectral-Images-Based-on-Low-Rank-and-Sparse-Representation)]
 * [2016] A Tensor Decomposition-Based Anomaly Detection Algorithm for Hyperspectral Image, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/7493677)]
 
-### Surveys
-* [2023] Remote Sensing Object Detection Meets Deep Learning: A Meta-review of Challenges and Advances, arXiv [[paper](https://arxiv.org/abs/2309.06751)]
-* [2023] A survey on hyperspectral image restoration: from the view of low-rank tensor approximation, SIIS [[paper](https://link.springer.com/article/10.1007/s11432-022-3609-4)]
-* [2023] Multispectral and hyperspectral image fusion in remote sensing: A survey, IF [[paper](https://www.sciencedirect.com/science/article/pii/S1566253522001312)]
-* Image Denoising: The Deep Learning Revolution and Beyond- A Survey Paper, SIIMS  [[paper](https://epubs.siam.org/doi/abs/10.1137/23M1545859)]
-* [2023] Hyperspectral Image Denoising: From Model-Driven, Data-Driven, to Model-Data-Driven, IEEE TNNLS [[paper](https://ieeexplore.ieee.org/abstract/document/10144690)]
-* [2022] Hyperspectral Unmixing Based on Nonnegative Matrix Factorization: A Comprehensive Review
-* [2022] Hyperspectral Anomaly Detection Based on Machine Learning: An Overview, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/abstract/document/9760098)]
-* [2022] Hyperspectral anomaly detection: A survey, IEEE GRSM [[paper](https://ieeexplore.ieee.org/document/9532003)]
-* [2022] Hyperspectral Anomaly Detection Using Deep Learning: A Review, RS [[paper](https://www.mdpi.com/2072-4292/14/9/1973)]
 
 
 ### Datasets  
@@ -76,10 +78,6 @@ If you have any suggestions, please feel free to contact me.
 * NUS [[link](https://sites.google.com/site/hyperspectralcolorimaging/dataset/general-scenes)]
 * NTIRE18 [[link](http://www.vision.ee.ethz.ch/ntire18/)]
 
-
-### Other Resources
-* https://openremotesensing.net/
-* https://sites.google.com/view/danfeng-hong/home
 
   
 ----
