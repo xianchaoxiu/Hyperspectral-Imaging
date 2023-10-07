@@ -10,16 +10,16 @@ We foucs on model-data-driven methods in various pattern recognition application
 ## Hyperspectral Imaging
 
 ### Surveys
-- [2023] Remote Sensing Object Detection Meets Deep Learning: A Meta-review of Challenges and Advances, arXiv [[paper](https://arxiv.org/abs/2309.06751)]
-- [2023] A survey on hyperspectral image restoration: from the view of low-rank tensor approximation, SIIS [[paper](https://link.springer.com/article/10.1007/s11432-022-3609-4)]
-- [2023] Multispectral and hyperspectral image fusion in remote sensing: A survey, IF [[paper](https://www.sciencedirect.com/science/article/pii/S1566253522001312)]
+- [2023] Remote Sensing Object Detection Meets Deep Learning: A Meta-Review of Challenges and Advances, arXiv [[paper](https://arxiv.org/abs/2309.06751)]
+- [2023] A Survey on Hyperspectral Image Restoration: From the View of Low-Rank Tensor Approximation, SIIS [[paper](https://link.springer.com/article/10.1007/s11432-022-3609-4)]
+- [2023] Multispectral and Hyperspectral Image Fusion In Remote Sensing: A Survey, IF [[paper](https://www.sciencedirect.com/science/article/pii/S1566253522001312)]
 - [2023] Image Denoising: The Deep Learning Revolution and Beyond- A Survey Paper, SIIMS  [[paper](https://epubs.siam.org/doi/abs/10.1137/23M1545859)]
 - [2023] Hyperspectral Image Denoising: From Model-Driven, Data-Driven, to Model-Data-Driven, IEEE TNNLS [[paper](https://ieeexplore.ieee.org/abstract/document/10144690)]
-- [2022] Hyperspectral Unmixing Based on Nonnegative Matrix Factorization: A Comprehensive Review
+- [2022] Hyperspectral Unmixing Based on Nonnegative Matrix Factorization: A Comprehensive Review, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/abstract/document/9775570)]
 - [2022] Hyperspectral Anomaly Detection Based on Machine Learning: An Overview, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/abstract/document/9760098)]
-- [2022] Hyperspectral anomaly detection: A survey, IEEE GRSM [[paper](https://ieeexplore.ieee.org/document/9532003)]
+- [2022] Hyperspectral Anomaly Detection: A Survey, IEEE GRSM [[paper](https://ieeexplore.ieee.org/document/9532003)]
 - [2022] Hyperspectral Anomaly Detection Using Deep Learning: A Review, RS [[paper](https://www.mdpi.com/2072-4292/14/9/1973)]
-- [2022] Multi-view learning for hyperspectral image classification: An overview, Neurocomputing [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222006762)]
+- [2022] Multi-View Learning for Hyperspectral Image Classification: An Overview, Neurocomputing [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222006762)]
 
 
 ### Unmixing
@@ -72,6 +72,7 @@ We foucs on model-data-driven methods in various pattern recognition application
 - [2022] Deep Low-Rank Prior for Hyperspectral Anomaly Detection, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9756439)]
 - [2022] Prior-Based Tensor Approximation for Anomaly Detection in Hyperspectral Imagery, IEEE TNNLS [[paper](https://ieeexplore.ieee.org/abstract/document/9288702)][[code](https://github.com/l7170/PTA-HAD.git)]  
 - [2022] Tensor Decomposition-Inspired Convolutional Autoencoders for Hyperspectral Anomaly Detection, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/abstract/document/9802669)]
+- [2022] Moving Vehicle Detection for Remote Sensing Video Surveillance With Nonstationary Satellite Platform, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/9380986)] 
 - [2021] Hyperspectral Anomaly Detection via Deep Plug-and-Play Denoising CNN Regularization, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9329138)][[code](https://github.com/FxyPd)]
 - [2020] Graph and Total Variation Regularized Low-Rank Representation for Hyperspectral Anomaly Detection, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/8833518)]
 - [2016] Anomaly Detection in Hyperspectral Images Based on Low-Rank and Sparse Representation, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/7322257)][[code](https://github.com/axiqia/Anomaly-Detection-in-Hyperspectral-Images-Based-on-Low-Rank-and-Sparse-Representation)]
@@ -80,12 +81,26 @@ We foucs on model-data-driven methods in various pattern recognition application
 
 ## Dimension Reduction
 
-### PCA
+### Sparse PCA
 - [2023] Sparse PCA via l2,p-Norm Regularization for Unsupervised Feature Selection, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/9580680)] [[code](https://github.com/quiter2005/algorithm)]
-- [2023] Learning Feature-Sparse Principal Subspace, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/9941008)]
+- [2023] Learning Feature-Sparse Principal Subspace, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/9941008)] [[code](https://github.com/icety3/FSPCA)]
 - [2023] Fast Unsupervised Feature Selection With Bipartite Graph and l2,0-Norm Constraint, IEEE TKDE [[paper](https://ieeexplore.ieee.org/abstract/document/9695194)]
+- [2023] A Communication-Efficient and Privacy-Aware Distributed Algorithm for Sparse PCA, COAP [[paper](https://link.springer.com/article/10.1007/s10589-023-00481-4)] [[code](http://lsec.cc.ac.cn/~liuxin/Solvers/DSSAL1.zip)]
+- [2022] FAST-PCA: A Fast and Exact Algorithm for Distributed Principal Component Analysis, IEEE TSP [[paper](https://ieeexplore.ieee.org/abstract/document/10012289)]
+- [2022] Solving Large-Scale Sparse PCA to Certifiable (Near) Optimality, JMLR [[paper](https://dl.acm.org/doi/abs/10.5555/3586589.3586602)]
+- [2021] Communication-Efficient Distributed Covariance Sketch, With Application to Distributed PCA, JMLR [[paper](https://dl.acm.org/doi/abs/10.5555/3546258.3546338)]
+- [2021] Distributed Principal Component Analysis with Limited Communication, NIPS [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/1680e9fa7b4dd5d62ece800239bb53bd-Abstract.html)] [[code](https://github.com/IST-DASLab/QRGD)]
+- [2020] Communication-Efficient Distributed PCA by Riemannian Optimization, ICML [[paper](https://proceedings.mlr.press/v119/huang20e.html)]
+- [2021] Learning Sparse PCA with Stabilized ADMM Method on Stiefel Manifold, IEEE TKDE [[paper](https://ieeexplore.ieee.org/abstract/document/8807218)]
+- [2018] A Review of Distributed Algorithms for Principal Component Analysis, P IEEE [[paper](https://ieeexplore.ieee.org/abstract/document/8425655)]
+- [2018] A Selective Overview of Sparse Principal Component Analysis, P IEEE [[paper](https://ieeexplore.ieee.org/abstract/document/8412518)]
 
-### LDA
+
+
+### Robust LDA
+- [2019] Robust Sparse Linear Discriminant Analysis, IEEE TCSVT [[paper](https://ieeexplore.ieee.org/abstract/document/8272002)] 
+
+
 
 
 ### Tensor CCA
@@ -102,10 +117,10 @@ We foucs on model-data-driven methods in various pattern recognition application
 - [2020] Cross-Modal Subspace Clustering via Deep Canonical Correlation Analysis, AAAI [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5808)]
 - [2019] Deep RGB-D Canonical Correlation Analysis For Sparse Depth Completion, NIPS [[paper](https://proceedings.neurips.cc/paper_files/paper/2019/hash/e2c61965b5e23b47b77d7c51611b6d7f-Abstract.html)]
 - [2019] Graph Multiview Canonical Correlation Analysis, IEEE TSP [[paper](https://ieeexplore.ieee.org/abstract/document/8686218)] 
-- [2017] Canonical correlation analysis networks for two-view image recognition, IS [[paper](https://www.sciencedirect.com/science/article/pii/S0020025517300208)]
-- [2016] Sparse tensor canonical correlation analysis for micro-expression recognition, Neurocomputing [[paper](https://www.sciencedirect.com/science/article/pii/S0925231216305501)]
+- [2017] Canonical Correlation Analysis Networks for Two-View Image Recognition, IS [[paper](https://www.sciencedirect.com/science/article/pii/S0020025517300208)]
+- [2016] Sparse Tensor Canonical Correlation Analysis for Micro-Expression Recognition, Neurocomputing [[paper](https://www.sciencedirect.com/science/article/pii/S0925231216305501)]
 - [2015] On Deep Multi-View Representation Learning, ICML  [[paper](http://proceedings.mlr.press/v37/wangb15.html)] [[code](https://bitbucket.org/qingming_tang/deep-canonical-correlation-analysis/src/master/)]
 - [2015] Tensor Canonical Correlation Analysis for Multi-View Dimension Reduction, IEEE TKDE [[paper](https://ieeexplore.ieee.org/abstract/document/7123622)]  [[code](https://github.com/rciszek/mdr_tcca)]
-- [2013] Deep canonical correlation analysis, ICML  [[paper](https://proceedings.mlr.press/v28/andrew13.html)] [[code](https://github.com/Michaelvll/DeepCCA)]
+- [2013] Deep Canonical Correlation Analysis, ICML  [[paper](https://proceedings.mlr.press/v28/andrew13.html)] [[code](https://github.com/Michaelvll/DeepCCA)]
 - [2009] Canonical Correlation Analysis of Video Volume Tensors for Action Categorization and Detection, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/4547427)]  
-- [2007] Tensor canonical correlation analysis for action classification, CVPR [[paper](https://ieeexplore.ieee.org/abstract/document/4270162)] 
+- [2007] Tensor Canonical Correlation Analysis for Action Classification, CVPR [[paper](https://ieeexplore.ieee.org/abstract/document/4270162)] 
