@@ -78,21 +78,6 @@ We foucs on model-data-driven methods in various pattern recognition application
 - [2016] A Tensor Decomposition-Based Anomaly Detection Algorithm for Hyperspectral Image, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/7493677)]
 
 
-
-### Datasets  
-- CAVE [[link](http://www.cs.columbia.edu/CAVE/databases/multispectral/)]
-- Harvard [[link](http://vision.seas.harvard.edu/hyperspec/download.html)]
-- ICVL [[link](http://icvl.cs.bgu.ac.il/hyperspectral/)]
-- AVIRIS [[link](http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes)]
-- ROSIS [[link](http://lesun.weebly.com/hyperspectral-data-set.html)]
-- HYDICE [[link](https://www.erdc.usace.army.mil/Media/Fact-Sheets/Fact-Sheet-Article-View/Article/610433/hypercube/)]
-- EO-1 Hyperion[[link](https://lta.cr.usgs.gov/ALI)]
-- NUS [[link](https://sites.google.com/site/hyperspectralcolorimaging/dataset/general-scenes)]
-- NTIRE18 [[link](http://www.vision.ee.ethz.ch/ntire18/)]
-
-
-
-
 ## Dimension Reduction
 
 ### PCA
