@@ -95,9 +95,6 @@ We foucs on model-data-driven methods in various pattern recognition application
 
 ## Dimension Reduction
 
-### Surveys
-
-
 ### PCA
 - [2023] Sparse PCA via l2,p-Norm Regularization for Unsupervised Feature Selection, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/9580680)] [[code](https://github.com/quiter2005/algorithm)]
 - [2023] Learning Feature-Sparse Principal Subspace, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/9941008)]
@@ -107,6 +104,7 @@ We foucs on model-data-driven methods in various pattern recognition application
 
 
 ### Tensor CCA
+- [2023] Discriminative Deep Generalized Dependency Analysis for Multi-View Data, IEEE TAI [[paper](https://ieeexplore.ieee.org/abstract/document/10225322)] 
 - [2023] Communication-Efficient Federated Linear and Deep Generalized Canonical Correlation Analysis, IEEE TSP [[paper](https://ieeexplore.ieee.org/abstract/document/10099447)] [[code](https://github.com/XiaoFuLab/federated_max_var_gcca)]
 - [2023] Tensor Generalized Canonical Correlation Analysis, IF [[paper](https://www.sciencedirect.com/science/article/pii/S1566253523003615)] 
 - [2023] Discriminative Deep Canonical Correlation Analysis for Multi-View Data, IEEE TNNLS [[paper](https://ieeexplore.ieee.org/abstract/document/10143374)] 
@@ -114,6 +112,7 @@ We foucs on model-data-driven methods in various pattern recognition application
 - [2022] Tensor Canonical Correlation Analysis Networks for Multi-View Remote Sensing Scene Recognition, IEEE TKDE [[paper](https://ieeexplore.ieee.org/abstract/document/9167483)]  [[code](https://github.com/AdvAttack/TCCANet-TKDE)]
 - [2022] Deep Tensor CCA for Multi-View Learning, IEEE TBD [[paper](https://ieeexplore.ieee.org/document/9428614)] 
 - [2021] A Survey on Canonical Correlation Analysis, IEEE TKDE [[paper](https://ieeexplore.ieee.org/abstract/document/8928538)]
+- [2021] Tensor canonical correlation analysis with convergence and statistical guarantees, JCGS [[paper](https://www.tandfonline.com/doi/full/10.1080/10618600.2020.1856118)] [[code](https://github.com/youlinchen/TCCA)]
 - [2021] From Canonical Correlation Analysis to Self-supervised Graph Neural Networks, NIPS [[paper](https://proceedings.neurips.cc/paper/2021/hash/00ac8ed3b4327bdd4ebbebcb2ba10a00-Abstract.html)]
 - [2020] Cross-Modal Subspace Clustering via Deep Canonical Correlation Analysis, AAAI [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5808)]
 - [2019] Deep RGB-D Canonical Correlation Analysis For Sparse Depth Completion, NIPS [[paper](https://proceedings.neurips.cc/paper_files/paper/2019/hash/e2c61965b5e23b47b77d7c51611b6d7f-Abstract.html)]
@@ -123,29 +122,5 @@ We foucs on model-data-driven methods in various pattern recognition application
 - [2015] On Deep Multi-View Representation Learning, ICML  [[paper](http://proceedings.mlr.press/v37/wangb15.html)] [[code](https://bitbucket.org/qingming_tang/deep-canonical-correlation-analysis/src/master/)]
 - [2015] Tensor Canonical Correlation Analysis for Multi-View Dimension Reduction, IEEE TKDE [[paper](https://ieeexplore.ieee.org/abstract/document/7123622)]  [[code](https://github.com/rciszek/mdr_tcca)]
 - [2013] Deep canonical correlation analysis, ICML  [[paper](https://proceedings.mlr.press/v28/andrew13.html)] [[code](https://github.com/Michaelvll/DeepCCA)]
+- [2009] Canonical Correlation Analysis of Video Volume Tensors for Action Categorization and Detection, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/4547427)]  
 - [2007] Tensor canonical correlation analysis for action classification, CVPR [[paper](https://ieeexplore.ieee.org/abstract/document/4270162)] 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Tensor CCA
-
-
