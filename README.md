@@ -2,7 +2,7 @@
 
 We foucs on model-data-driven methods in various pattern recognition applications, including 
 - Hyperspectral Imaging
-- Dimension Reduction
+- Dimensionality Reduction
 
 <strong>Last Update: October, 2023</strong>
 
@@ -79,7 +79,7 @@ We foucs on model-data-driven methods in various pattern recognition application
 - [2016] A Tensor Decomposition-Based Anomaly Detection Algorithm for Hyperspectral Image, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/7493677)]
 
 
-## Dimension Reduction
+## Dimensionality Reduction
 
 ### Sparse PCA
 - [2023] Sparse PCA via l2,p-Norm Regularization for Unsupervised Feature Selection, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/9580680)] [[code](https://github.com/quiter2005/algorithm)]
@@ -98,9 +98,17 @@ We foucs on model-data-driven methods in various pattern recognition application
 
 
 ### Robust LDA
-- [2019] Robust Sparse Linear Discriminant Analysis, IEEE TCSVT [[paper](https://ieeexplore.ieee.org/abstract/document/8272002)] 
-
-
+- [2023] Self-Weighted Unsupervised LDA, IEEE TNNLS [[paper](https://ieeexplore.ieee.org/abstract/document/9524457)] 
+- [2023] Fisher's Linear Discriminant Analysis With Space-Folding Operations, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/10005006)] 
+- [2023] Linear Discriminant Analysis With Generalized Kernel Constraint for Robust Image Classification, PR [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320322006756)]
+- [2022] Neighborhood Linear Discriminant Analysis, PR [[paper](https://www.sciencedirect.com/science/article/pii/S0031320321005987)]
+- [2021] Unsupervised Linear Discriminant Analysis for Jointly Clustering and Subspace Learning, IEEE TKDE [[paper](https://ieeexplore.ieee.org/abstract/document/8823955)]
+- [2021] Large-Dimensional Characterization of Robust Linear Discriminant Analysis, IEEE TSP [[paper](https://ieeexplore.ieee.org/abstract/document/9415133)]
+- [2020] Self-weighted Robust LDA for Multiclass Classification with Edge Classes, ACM TIST [[paper](https://dl.acm.org/doi/abs/10.1145/3418284)]
+- [2020] Robust and Sparse Linear Discriminant Analysis via an Alternating Direction Method of Multipliers, IEEE TNNLS [[paper](https://ieeexplore.ieee.org/abstract/document/8710607)] 
+- [2019] Robust Sparse Linear Discriminant Analysis, IEEE TCSVT [[paper](https://ieeexplore.ieee.org/abstract/document/8272002)] [[code](https://github.com/ckghostwj/RSLDA)]
+- [2019] Multi-View Linear Discriminant Analysis Network, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/8704986)] [[code](https://github.com/penghu-cs/MvLDAN)]
+- [2016] Sparse Uncorrelated Linear Discriminant Analysis for Undersampled Problems, IEEE TNNLS [[paper](https://ieeexplore.ieee.org/abstract/document/7160770)] 
 
 
 ### Tensor CCA
