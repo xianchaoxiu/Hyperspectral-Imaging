@@ -4,7 +4,7 @@ We foucs on model-data-driven methods in various pattern recognition application
 - Hyperspectral Imaging
 - Dimensionality Reduction
 
-<strong>Last Update: October, 2023</strong>
+<strong> Last Update: October, 2023 </strong>
 
 
 ## Hyperspectral Imaging
@@ -81,7 +81,7 @@ We foucs on model-data-driven methods in various pattern recognition application
 
 ## Dimensionality Reduction
 
-### Sparse PCA
+### PCA
 - [2023] Sparse PCA via l2,p-Norm Regularization for Unsupervised Feature Selection, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/9580680)] [[code](https://github.com/quiter2005/algorithm)]
 - [2023] Learning Feature-Sparse Principal Subspace, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/9941008)] [[code](https://github.com/icety3/FSPCA)]
 - [2023] Fast Unsupervised Feature Selection With Bipartite Graph and l2,0-Norm Constraint, IEEE TKDE [[paper](https://ieeexplore.ieee.org/abstract/document/9695194)]
@@ -97,7 +97,7 @@ We foucs on model-data-driven methods in various pattern recognition application
 
 
 
-### Robust LDA
+### LDA
 - [2023] Self-Weighted Unsupervised LDA, IEEE TNNLS [[paper](https://ieeexplore.ieee.org/abstract/document/9524457)] 
 - [2023] Fisher's Linear Discriminant Analysis With Space-Folding Operations, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/10005006)] 
 - [2023] Linear Discriminant Analysis With Generalized Kernel Constraint for Robust Image Classification, PR [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320322006756)]
@@ -111,7 +111,7 @@ We foucs on model-data-driven methods in various pattern recognition application
 - [2016] Sparse Uncorrelated Linear Discriminant Analysis for Undersampled Problems, IEEE TNNLS [[paper](https://ieeexplore.ieee.org/abstract/document/7160770)] 
 
 
-### Tensor CCA
+### CCA
 - [2023] Discriminative Deep Generalized Dependency Analysis for Multi-View Data, IEEE TAI [[paper](https://ieeexplore.ieee.org/abstract/document/10225322)] 
 - [2023] Communication-Efficient Federated Linear and Deep Generalized Canonical Correlation Analysis, IEEE TSP [[paper](https://ieeexplore.ieee.org/abstract/document/10099447)] [[code](https://github.com/XiaoFuLab/federated_max_var_gcca)]
 - [2023] Tensor Generalized Canonical Correlation Analysis, IF [[paper](https://www.sciencedirect.com/science/article/pii/S1566253523003615)] 
