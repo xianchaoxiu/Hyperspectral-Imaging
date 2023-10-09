@@ -85,7 +85,7 @@ We foucs on model-data-driven methods in various pattern recognition application
 - [2021] Hyperspectral Image Denoising via Low-Rank Representation and CNN Denoiser, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/document/9664348)]
 - [2020] Hyperspectral image restoration via CNN denoiser prior regularized low-rank tensor recovery, CVIU [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314220300710)] [[code](https://github.com/NavyZeng/DPLRTA)] 
 - [2019] Hyperspectral Image Denoising via Matrix Factorization and Deep Prior Regularization, IEEE TIP [[paper](https://ieeexplore.ieee.org/document/8767025)]
-- [2018] Hyperspectral Image Restoration Via Total Variation Regularized Low-Rank Tensor Decomposition, IEEE JSTARS [[paper] https://ieeexplore.ieee.org/abstract/document/8233403)] [[code](https://github.com/zhaoxile/Hyperspectral-Image-Restoration-via-Total-Variation-Regularized-Low-rank-Tensor-Decomposition)] 
+- [2018] Hyperspectral Image Restoration Via Total Variation Regularized Low-Rank Tensor Decomposition, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/abstract/document/8233403)] [[code](https://github.com/zhaoxile/Hyperspectral-Image-Restoration-via-Total-Variation-Regularized-Low-rank-Tensor-Decomposition)] 
 - [2018] FFDNet: Toward a Fast and Flexible Solution for CNN-Based Image Denoising, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/8365806)] [[code](https://github.com/cszn/FFDNet)] 
 
 
