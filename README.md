@@ -89,6 +89,7 @@ We foucs on model-data-driven methods in various pattern recognition application
 [[code](https://github.com/zhaoxile/Hyperspectral-Image-Restoration-via-Total-Variation-Regularized-Low-rank-Tensor-Decomposition)] 
 - [2018] Noise Reduction in Hyperspectral Imagery: Overview and Application, RS [[paper](https://www.mdpi.com/2072-4292/10/3/482)]
 [[code](https://openremotesensing.net/knowledgebase/noise-reduction-in-hyperspectral-imagery-overview-and-application/)] 
+- [2018] FFDNet: Toward a Fast and Flexible Solution for CNN-Based Image Denoising, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/8365806)] [[code](https://github.com/cszn/FFDNet)] 
 
 
 
