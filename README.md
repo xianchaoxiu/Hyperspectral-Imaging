@@ -111,7 +111,7 @@ We foucs on model-data-driven methods in various pattern recognition application
 <a name="Detection" />
 
 ### Detection
-- [2023] Learning Tensor Low-Rank Representation for Hyperspectral Anomaly Detection, IEEE TC [[paper](https://ieeexplore.ieee.org/abstract/document/9781337)]
+- [2023] Learning Tensor Low-Rank Representation for Hyperspectral Anomaly Detection, IEEE TC [[paper](https://ieeexplore.ieee.org/abstract/document/9781337)] [[code](https://openremotesensing.net/knowledgebase/learning-tensor-low-rank-representation-for-hyperspectral-anomaly-detection/)]
 - [2023] LRR-Net: An Interpretable Deep Unfolding Network for Hyperspectral Anomaly Detection, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/10136197)]
 - [2023] Hyperspectral Anomaly Detection via Structured Sparsity Plus Enhanced Low-Rankness, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/10148989)]
 - [2022] Deep Low-Rank Prior for Hyperspectral Anomaly Detection, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9756439)]
@@ -120,7 +120,7 @@ We foucs on model-data-driven methods in various pattern recognition application
 - [2022] Moving Vehicle Detection for Remote Sensing Video Surveillance With Nonstationary Satellite Platform, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/9380986)] 
 - [2021] Hyperspectral Anomaly Detection via Deep Plug-and-Play Denoising CNN Regularization, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9329138)][[code](https://github.com/FxyPd)]
 - [2020] Graph and Total Variation Regularized Low-Rank Representation for Hyperspectral Anomaly Detection, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/8833518)]
-- [2016] Anomaly Detection in Hyperspectral Images Based on Low-Rank and Sparse Representation, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/7322257)][[code](https://github.com/axiqia/Anomaly-Detection-in-Hyperspectral-Images-Based-on-Low-Rank-and-Sparse-Representation)]
+- [2016] Anomaly Detection in Hyperspectral Images Based on Low-Rank and Sparse Representation, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/7322257)] [[code](https://github.com/axiqia/Anomaly-Detection-in-Hyperspectral-Images-Based-on-Low-Rank-and-Sparse-Representation)]
 - [2016] A Tensor Decomposition-Based Anomaly Detection Algorithm for Hyperspectral Image, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/7493677)]
 - [2015] Background Subtraction Based on Low-Rank and Structured Sparse Decomposition, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/7076585)][[code](https://github.com/utayao/LSD_Foreground_Detection)]
 
