@@ -60,7 +60,7 @@ We foucs on model-data-driven methods in various pattern recognition application
 - [2020] Sparsity-Constrained Coupled Nonnegative Matrix–Tensor Factorization for Hyperspectral Unmixing, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/abstract/document/9178427)]
 - [2020] Weighted Nonlocal Low-Rank Tensor Decomposition Method for Sparse Unmixing of Hyperspectral Images, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/abstract/document/9035393)]
 - [2019] Hyperspectral Unmixing via Total Variation Regularized Nonnegative Tensor Factorization, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/8497054)] [[code](https://github.com/zhaoxile/Hyperspectral-Image-Restoration-via-Total-Variation-Regularized-Low-rank-Tensor-Decomposition)] 
-- [2018] Hyperspectral Unmixing Using Sparsity-Constrained Deep Nonnegative Matrix Factorization With Total Variation, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/8372956)]
+- [2018] Hyperspectral Unmixing Using Sparsity-Constrained Deep Nonnegative Matrix Factorization with Total Variation, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/8372956)]
 - [2017] Spatial Group Sparsity Regularized Nonnegative Matrix Factorization for Hyperspectral Unmixing, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/7995123)][[code](https://github.com/YW81/TGRS17-SGSNMF)] 
 - [2017] SRCMF: Robust Constrained Matrix Factorization for Hyperspectral Unmixing, IEEE TGRS [[paper](https://ieeexplore.ieee.org/document/7875072)] [[code](https://openremotesensing.net/knowledgebase/rcmf-robust-constrained-matrix-factorization-for-hyperspectral-unmixing/)] 
 
