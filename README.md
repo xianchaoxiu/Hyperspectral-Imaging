@@ -97,10 +97,10 @@ We foucs on model-data-driven methods in various pattern recognition application
 
 ### Fusion
 - [2023] LRRNet: A Novel Representation Learning Guided Fusion Network for Infrared and Visible Images, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/10105495)] [[code](https://github.com/hli1221/imagefusion-LRRNet)] 
-- [2022] MHF-Net: An Interpretable Deep Network for Multispectral and Hyperspectral Image Fusion, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/9165231)] [[code](https://github.com/XieQi2015/MHF-net)] 
+- [2022] MHF-Net: An Interpretable Deep Network for Multispectral and Hyperspectral Image Fusion, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/9165231)] [[code](https://github.com/XieQi2015/MHF-net)]
+- [2022] ADMM-HFNet: A Matrix Decomposition-Based Deep Approach for Hyperspectral Image Fusion, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9547385)] [[code](https://github.com/liuofficial/ADMM-HFNet)]
 - [2022] NMF-DuNet: Nonnegative Matrix Factorization Inspired Deep Unrolling Networks for Hyperspectral and Multispectral Image Fusion, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/abstract/document/9822395)]
 - [2021] Hyperspectral Restoration and Fusion with Multispectral Imagery by Recasting Low-Rank Tensor Approximation, IEEE TGRS [[paper](https://ieeexplore.ieee.org/document/9328229)] [[code](https://openremotesensing.net/knowledgebase/hyperspectral-restoration-and-fusion-with-multispectral-imagery-by-recasting-low-rank-tensor-approximation/)]
-- [2021] ADMM-HFNet: A Matrix Decomposition-Based Deep Approach for Hyperspectral Image Fusion, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9547385)]
 - [2021] Hyperspectral and Multispectral Image Fusion via Graph Laplacian-Guided Coupled Tensor Decomposition, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9094715)]
 - [2021] Regularizing Hyperspectral and Multispectral Image Fusion by CNN Denoiser, IEEE TNNLS [[paper](https://ieeexplore.ieee.org/abstract/document/9069930)]
 - [2020] Nonlocal Coupled Tensor CP Decomposition for Hyperspectral and Multispectral Image Fusion, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/8835149)]
