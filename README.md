@@ -122,7 +122,7 @@ We foucs on model-data-driven methods in various pattern recognition application
 - [2020] Graph and Total Variation Regularized Low-Rank Representation for Hyperspectral Anomaly Detection, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/8833518)]
 - [2016] Anomaly Detection in Hyperspectral Images Based on Low-Rank and Sparse Representation, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/7322257)][[code](https://github.com/axiqia/Anomaly-Detection-in-Hyperspectral-Images-Based-on-Low-Rank-and-Sparse-Representation)]
 - [2016] A Tensor Decomposition-Based Anomaly Detection Algorithm for Hyperspectral Image, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/7493677)]
-
+- [2015] Background Subtraction Based on Low-Rank and Structured Sparse Decomposition, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/7076585)][[code](https://github.com/utayao/LSD_Foreground_Detection)]
 
 
 <a name="Fault_Diagnosis" />
