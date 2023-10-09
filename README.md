@@ -6,15 +6,18 @@ We foucs on model-data-driven methods in various pattern recognition application
   - [Unmixing](#Unmixing)
   - [Denoising](#Denoising)
   - [Fusion](#Fusion)
-  - [Anomaly Detection](#Anomaly_Detection)
+  - [Detection](#Detection)
 - [Fault Diagnosis](#Fault_Diagnosis)
 
 <strong> Last Update: October, 2023 </strong>
 
 
+
 <a name="Hyperspectral_Imaging" />
 
 ## Hyperspectral Imaging
+
+
 
 <a name="Surveys" />
 
@@ -61,6 +64,8 @@ We foucs on model-data-driven methods in various pattern recognition application
 - [2017] Spatial Group Sparsity Regularized Nonnegative Matrix Factorization for Hyperspectral Unmixing, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/7995123)][[code](https://github.com/YW81/TGRS17-SGSNMF)] 
 - [2017] SRCMF: Robust Constrained Matrix Factorization for Hyperspectral Unmixing, IEEE TGRS [[paper](https://ieeexplore.ieee.org/document/7875072)] [[code](https://openremotesensing.net/knowledgebase/rcmf-robust-constrained-matrix-factorization-for-hyperspectral-unmixing/)] 
 
+
+
 <a name="Denoising" />
 
 ### Denoising
@@ -85,6 +90,8 @@ We foucs on model-data-driven methods in various pattern recognition application
 - [2018] Noise Reduction in Hyperspectral Imagery: Overview and Application, RS [[paper](https://www.mdpi.com/2072-4292/10/3/482)]
 [[code](https://openremotesensing.net/knowledgebase/noise-reduction-in-hyperspectral-imagery-overview-and-application/)] 
 
+
+
 <a name="Fusion" />
 
 ### Fusion
@@ -99,9 +106,11 @@ We foucs on model-data-driven methods in various pattern recognition application
 - [2020] Nonlocal Sparse Tensor Factorization for Semiblind Hyperspectral and Multispectral Image Fusion, IEEE TC [[paper](https://ieeexplore.ieee.org/abstract/document/8917657)]
 - [2018] Spatial–Spectral-Graph-Regularized Low-Rank Tensor Decomposition for Multispectral and Hyperspectral Image Fusion, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/abstract/document/8253497)] 
 
-<a name="Anomaly_Detection" />
 
-### Anomaly Detection
+
+<a name="Detection" />
+
+### Detection
 - [2023] Learning Tensor Low-Rank Representation for Hyperspectral Anomaly Detection, IEEE TC [[paper](https://ieeexplore.ieee.org/abstract/document/9781337)]
 - [2023] LRR-Net: An Interpretable Deep Unfolding Network for Hyperspectral Anomaly Detection, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/10136197)]
 - [2023] Hyperspectral Anomaly Detection via Structured Sparsity Plus Enhanced Low-Rankness, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/10148989)]
@@ -113,6 +122,7 @@ We foucs on model-data-driven methods in various pattern recognition application
 - [2020] Graph and Total Variation Regularized Low-Rank Representation for Hyperspectral Anomaly Detection, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/8833518)]
 - [2016] Anomaly Detection in Hyperspectral Images Based on Low-Rank and Sparse Representation, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/7322257)][[code](https://github.com/axiqia/Anomaly-Detection-in-Hyperspectral-Images-Based-on-Low-Rank-and-Sparse-Representation)]
 - [2016] A Tensor Decomposition-Based Anomaly Detection Algorithm for Hyperspectral Image, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/7493677)]
+
 
 
 <a name="Fault_Diagnosis" />
