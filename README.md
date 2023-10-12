@@ -52,7 +52,7 @@ We foucs on model-data-driven methods in various pattern recognition application
 - [2022] Hyperspectral Sparse Unmixing via Nonconvex Shrinkage Penalties, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9999711)]
 - [2022] Efficient Weighted-Adaptive Sparse Constrained Nonnegative Tensor Factorization for Hyperspectral Unmixing, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9954891)]
 - [2022] SNMF-Net: Learning a Deep Alternating Neural Network for Hyperspectral Unmixing, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9444347)] [[code](https://github.com/yxhnjust/F3Net)] 
-- [2022] A Plug-and-Play Priors Framework for Hyperspectral Unmixing, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/932504)] [[code](https://github.com/xiuheng-wang/Plug_and_Play_HSI_unmixing)] 
+- [2022] A Plug-and-Play Priors Framework for Hyperspectral Unmixing, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9325040)] [[code](https://github.com/xiuheng-wang/Plug_and_Play_HSI_unmixing)] 
 - [2021] Nonlocal Tensor-Based Sparse Hyperspectral Unmixing, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9239255)]
 - [2021] Hyperspectral Unmixing via Nonnegative Matrix Factorization With Handcrafted and Learned Priors, IEEE GRSL [[paper](https://ieeexplore.ieee.org/abstract/document/9321154)]
 - [2021] Sparse and Low-Rank Constrained Tensor Factorization for Hyperspectral Image Unmixing, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/abstract/document/9312393)]
