@@ -138,10 +138,11 @@ We foucs on model-data-driven methods in various pattern recognition application
 - [2023] 面向工业监控典型监督任务的深度迁移学习方法: 现状、挑战与展望, 中国科学 [[paper](https://www.sciengine.com/SSI/doi/10.1360/SSI-2022-0328)]
 - [2023] Deep Transfer Learning for Bearing Fault Diagnosis: A Systematic Review Since 2016, IEEE TIM [[paper](https://ieeexplore.ieee.org/abstract/document/10042467)]
 - [2023] Low-Rank Correlation Learning for Unsupervised Domain Adaptation, IEEE TMM [[paper](https://ieeexplore.ieee.org/abstract/document/10269005)]
+- [2023] Discriminative Manifold Distribution Alignment for Domain Adaptation, IEEE TSMCB [[paper](https://ieeexplore.ieee.org/document/9863704)]
 - [2022] A perspective survey on deep transfer learning for fault diagnosis in industrial scenarios: Theories, applications and challenges, MSSP [[paper](https://www.sciencedirect.com/science/article/pii/S088832702100830X)]
 - [2021] Applications of Unsupervised Deep Transfer Learning to Intelligent Fault Diagnosis: A Survey and Comparative Study, IEEE TIM [[paper](https://ieeexplore.ieee.org/abstract/document/9552620)][[code](https://github.com/ZhaoZhibin/UDTL)]
+- [2021] Manifold Transfer Learning via Discriminant Regression Analysis, IEEE TMM [[paper](https://ieeexplore.ieee.org/abstract/document/9136879)]
 - [2020] A systematic review of deep transfer learning for machinery fault diagnosis, Neurocomputing [[paper](https://www.sciencedirect.com/science/article/pii/S0925231220306123)]
-- [2020] Manifold Transfer Learning via Discriminant Regression Analysis, IEEE TMM [[paper](https://ieeexplore.ieee.org/abstract/document/9136879)]
 - [2016] Discriminative Transfer Subspace Learning via Low-Rank and Sparse Representation, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/7360924)]
 
 
