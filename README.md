@@ -74,6 +74,7 @@ We foucs on model-data-driven methods in various pattern recognition application
 - [2023] Hyperspectral Image Denoising via Weighted Multidirectional Low-Rank Tensor Recovery, IEEE TC [[paper](https://ieeexplore.ieee.org/abstract/document/9920675)]
 - [2023] Nonlocal Structured Sparsity Regularization Modeling for Hyperspectral Image Denoising, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/10106506)]
 - [2023] Multitask Sparse Representation Model-Inspired Network for Hyperspectral Image Denoising, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/10198268)]
+- [2022] Non-Local Meets Global: An Iterative Paradigm for Hyperspectral Image Restoration, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/document/9208755)] [[code](https://github.com/quanmingyao/NGMeet)]  
 - [2022] SMDS-Net: Model Guided Spectral-Spatial Network for Hyperspectral Image Denoising, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/9855427)] [[code](https://github.com/bearshng/smds-net)]  
 - [2022] Fast Noise Removal in Hyperspectral Images via Representative Coefficient Total Variation, IEEE TGRS  [[paper](https://ieeexplore.ieee.org/abstract/document/9989343)]
 - [2022] Hyperspectral Image Denoising by Asymmetric Noise Modeling, IEEE TGRS  [[paper](https://ieeexplore.ieee.org/abstract/document/9975834)]
