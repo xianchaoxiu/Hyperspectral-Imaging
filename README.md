@@ -8,8 +8,7 @@ We foucs on model-data-driven methods in various pattern recognition application
   - [Fusion](#Fusion)
   - [Anomaly Detection](#Detection)
 - [Fault Diagnosis](#Fault_Diagnosis)
-  - [Surveys](#Survey2)
-  - [Transfer Subspace Learning](#Transfer_Subspace_Learning)
+  - [Transfer  Learning](#Transfer_Learning)
 
 <strong> Last Update: October, 2023 </strong>
 
@@ -131,22 +130,21 @@ We foucs on model-data-driven methods in various pattern recognition application
 
 ## Fault Diagnosis
 
-<a name="Survey2" />
+<a name="Transfer_Learning" />
 
-### Surveys
+### Transfer Learning
 - [2023] 非平衡数据下基于自适应迁移与宽度学习的多工况故障诊断, 中国科学 [[paper](https://www.sciengine.com/SSI/doi/10.1360/SSI-2022-0118)]
 - [2023] 数据驱动的多工况过程异常监测方法: 综述与展望, 中国科学 [[paper](https://www.sciengine.com/SSI/doi/10.1360/SSI-2022-0404)]
 - [2023] 面向工业监控典型监督任务的深度迁移学习方法: 现状、挑战与展望, 中国科学 [[paper](https://www.sciengine.com/SSI/doi/10.1360/SSI-2022-0328)]
-- [2023] 基于知识图谱和多任务学习的工业生产关键设备故障诊断方法, 中国科学 [[paper](https://www.sciengine.com/SSI/doi/10.1360/SSI-2022-0060)]
 - [2023] Deep Transfer Learning for Bearing Fault Diagnosis: A Systematic Review Since 2016, IEEE TIM [[paper](https://ieeexplore.ieee.org/abstract/document/10042467)]
+- [2023] Low-Rank Correlation Learning for Unsupervised Domain Adaptation, IEEE TMM [[paper](https://ieeexplore.ieee.org/abstract/document/10269005)]
 - [2022] A perspective survey on deep transfer learning for fault diagnosis in industrial scenarios: Theories, applications and challenges, MSSP [[paper](https://www.sciencedirect.com/science/article/pii/S088832702100830X)]
 - [2021] Applications of Unsupervised Deep Transfer Learning to Intelligent Fault Diagnosis: A Survey and Comparative Study, IEEE TIM [[paper](https://ieeexplore.ieee.org/abstract/document/9552620)][[code](https://github.com/ZhaoZhibin/UDTL)]
 - [2020] A systematic review of deep transfer learning for machinery fault diagnosis, Neurocomputing [[paper](https://www.sciencedirect.com/science/article/pii/S0925231220306123)]
+- [2020] Manifold Transfer Learning via Discriminant Regression Analysis, IEEE TMM [[paper](https://ieeexplore.ieee.org/abstract/document/9136879)]
+- [2016] Discriminative Transfer Subspace Learning via Low-Rank and Sparse Representation, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/7360924)]
 
 
-<a name="Transfer_Subspace_Learning" />
-
-### Transfer Subspace Learning
 
 
 
