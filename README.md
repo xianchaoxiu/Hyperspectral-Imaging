@@ -11,7 +11,7 @@ We foucs on model-data-driven methods in various pattern recognition application
   - [Transfer Learning](#Transfer_Learning)
   - [Deep Learning](#Deep_Learning)
      
-<strong> Last Update: October, 2023 </strong>
+<strong> Last Update: October 18, 2023 </strong>
 
 
 
