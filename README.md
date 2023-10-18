@@ -1,4 +1,4 @@
-# Model-Data-Driven Pattern Recognition 
+# Large-Scale Pattern Recognition 
 
 We foucs on model-data-driven methods in various pattern recognition applications, including 
 - [Hyperspectral Imaging](#Hyperspectral_Imaging)
