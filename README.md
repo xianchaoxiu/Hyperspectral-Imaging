@@ -7,7 +7,9 @@ We foucs on model-data-driven methods in various pattern recognition application
   - [Denoising](#Denoising)
   - [Fusion](#Fusion)
   - [Detection](#Detection)
-
+- [Fault Diagnosis](#Fault_Diagnosis)
+  - [Transfer Learning](#Transfer_Learning)
+  - [Deep Learning](#Deep_Learning)    
 <strong> Last Update: October, 2023 </strong>
 
 
@@ -126,8 +128,28 @@ We foucs on model-data-driven methods in various pattern recognition application
 
 
 
+<a name="Fault_Diagnosis" />
 
+## Fault Diagnosis
 
+<a name="Transfer_Learning" />
+
+### Transfer Learning
+- [2023] 非平衡数据下基于自适应迁移与宽度学习的多工况故障诊断, 中国科学 [[paper](https://www.sciengine.com/SSI/doi/10.1360/SSI-2022-0118)]
+- [2023] 数据驱动的多工况过程异常监测方法: 综述与展望, 中国科学 [[paper](https://www.sciengine.com/SSI/doi/10.1360/SSI-2022-0404)]
+- [2023] 面向工业监控典型监督任务的深度迁移学习方法: 现状、挑战与展望, 中国科学 [[paper](https://www.sciengine.com/SSI/doi/10.1360/SSI-2022-0328)]
+- [2023] Deep Transfer Learning for Bearing Fault Diagnosis: A Systematic Review Since 2016, IEEE TIM [[paper](https://ieeexplore.ieee.org/abstract/document/10042467)]
+- [2023] Low-Rank Correlation Learning for Unsupervised Domain Adaptation, IEEE TMM [[paper](https://ieeexplore.ieee.org/abstract/document/10269005)]
+- [2023] Discriminative Manifold Distribution Alignment for Domain Adaptation, IEEE TSMCB [[paper](https://ieeexplore.ieee.org/document/9863704)]
+- [2022] A Perspective Survey on Deep Transfer Learning for Fault Diagnosis in Industrial Scenarios: Theories, Applications and Challenges, MSSP [[paper](https://www.sciencedirect.com/science/article/pii/S088832702100830X)]
+- [2021] Applications of Unsupervised Deep Transfer Learning to Intelligent Fault Diagnosis: A Survey and Comparative Study, IEEE TIM [[paper](https://ieeexplore.ieee.org/abstract/document/9552620)][[code](https://github.com/ZhaoZhibin/UDTL)]
+- [2021] Manifold Transfer Learning via Discriminant Regression Analysis, IEEE TMM [[paper](https://ieeexplore.ieee.org/abstract/document/9136879)]
+- [2020] A Systematic Review of Deep Transfer Learning for Machinery Fault Diagnosis, Neurocomputing [[paper](https://www.sciencedirect.com/science/article/pii/S0925231220306123)]
+- [2016] Discriminative Transfer Subspace Learning via Low-Rank and Sparse Representation, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/7360924)]
+
+<a name="Deep_Learning" />
+
+### Deep Learning
 
 
 
