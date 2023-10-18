@@ -9,7 +9,8 @@ We foucs on model-data-driven methods in various pattern recognition application
   - [Detection](#Detection)
 - [Fault Diagnosis](#Fault_Diagnosis)
   - [Transfer Learning](#Transfer_Learning)
-  - [Deep Learning](#Deep_Learning)    
+  - [Deep Learning](#Deep_Learning)
+     
 <strong> Last Update: October, 2023 </strong>
 
 
