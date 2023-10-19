@@ -46,6 +46,7 @@ We foucs on model-data-driven methods in various pattern recognition application
 
 ### Unmixing
 - [2023] Hyperspectral Unmixing Using Higher-Order Graph Regularized NMF With Adaptive Feature Selection, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/10124031)]
+- [2023] Structured Sparse Non-Negative Matrix Factorization With L2,0-Norm, IEEE TKDE [[paper](https://ieeexplore.ieee.org/abstract/document/9893402)]  [[code](https://github.com/wenwenmin/SSNMF)] 
 - [2023] Adaptive Hypergraph Regularized Multilayer Sparse Tensor Factorization for Hyperspectral Unmixing, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/10032657)]
 - [2022] Hyperspectral Sparse Unmixing via Nonconvex Shrinkage Penalties, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9999711)]
 - [2022] Efficient Weighted-Adaptive Sparse Constrained Nonnegative Tensor Factorization for Hyperspectral Unmixing, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9954891)]
