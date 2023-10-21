@@ -1,4 +1,4 @@
-# Large-Scale Pattern Recognition 
+# Model-Data-Driven Hyperspectral Imaging
 
 We now foucs on model-data-driven methods in hyperspectral imaging, including 
   - [Surveys](#Surveys)
