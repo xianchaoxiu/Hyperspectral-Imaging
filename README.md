@@ -1,7 +1,6 @@
 # Large-Scale Pattern Recognition 
 
-We foucs on model-data-driven methods in various pattern recognition applications, including 
-- [Hyperspectral Imaging](#Hyperspectral_Imaging)
+We now foucs on model-data-driven methods in hyperspectral imaging, including 
   - [Surveys](#Surveys)
   - [Unmixing](#Unmixing)
   - [Denoising](#Denoising)
@@ -9,19 +8,12 @@ We foucs on model-data-driven methods in various pattern recognition application
   - [Detection](#Detection)
 
      
-<strong> Last Update: October 18, 2023 </strong>
-
-
-
-<a name="Hyperspectral_Imaging" />
-
-## Hyperspectral Imaging
-
+<strong> Last Update: October 22, 2023 </strong>
 
 
 <a name="Surveys" />
 
-### Surveys
+## Surveys
 - [2023] Remote Sensing Object Detection Meets Deep Learning: A Meta-Review of Challenges and Advances, arXiv [[paper](https://arxiv.org/abs/2309.06751)]
 - [2023] Tensor Decompositions for Hyperspectral Data Processing in Remote Sensing: A Comprehensive Review, IEEE GRSM [[paper](https://ieeexplore.ieee.org/abstract/document/10035509)]
 - [2023] Sparse Tensor Prior for Hyperspectral, Multispectral, and Panchromatic Image Fusion, IEEE/CAA JAS [[paper](https://ieeexplore.ieee.org/abstract/document/9910372)]
@@ -44,7 +36,7 @@ We foucs on model-data-driven methods in various pattern recognition application
 
 <a name="Unmixing" />
 
-### Unmixing
+## Unmixing
 - [2023] Hyperspectral Unmixing Using Higher-Order Graph Regularized NMF With Adaptive Feature Selection, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/10124031)]
 - [2023] Structured Sparse Non-Negative Matrix Factorization With L2,0-Norm, IEEE TKDE [[paper](https://ieeexplore.ieee.org/abstract/document/9893402)]  [[code](https://github.com/wenwenmin/SSNMF)] 
 - [2023] Adaptive Hypergraph Regularized Multilayer Sparse Tensor Factorization for Hyperspectral Unmixing, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/10032657)]
@@ -70,7 +62,7 @@ We foucs on model-data-driven methods in various pattern recognition application
 
 <a name="Denoising" />
 
-### Denoising
+## Denoising
 - [2023] Hyperspectral Image Denoising via Weighted Multidirectional Low-Rank Tensor Recovery, IEEE TC [[paper](https://ieeexplore.ieee.org/abstract/document/9920675)]
 - [2023] Nonlocal Structured Sparsity Regularization Modeling for Hyperspectral Image Denoising, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/10106506)]
 - [2023] Multitask Sparse Representation Model-Inspired Network for Hyperspectral Image Denoising, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/10198268)]
@@ -95,7 +87,7 @@ We foucs on model-data-driven methods in various pattern recognition application
 
 <a name="Fusion" />
 
-### Fusion
+## Fusion
 - [2023] LRRNet: A Novel Representation Learning Guided Fusion Network for Infrared and Visible Images, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/10105495)] [[code](https://github.com/hli1221/imagefusion-LRRNet)] 
 - [2022] MHF-Net: An Interpretable Deep Network for Multispectral and Hyperspectral Image Fusion, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/9165231)] [[code](https://github.com/XieQi2015/MHF-net)]
 - [2022] ADMM-HFNet: A Matrix Decomposition-Based Deep Approach for Hyperspectral Image Fusion, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9547385)] [[code](https://github.com/liuofficial/ADMM-HFNet)]
@@ -111,7 +103,7 @@ We foucs on model-data-driven methods in various pattern recognition application
 
 <a name="Detection" />
 
-### Detection
+## Detection
 - [2023] Learning Tensor Low-Rank Representation for Hyperspectral Anomaly Detection, IEEE TC [[paper](https://ieeexplore.ieee.org/abstract/document/9781337)] [[code](https://openremotesensing.net/knowledgebase/learning-tensor-low-rank-representation-for-hyperspectral-anomaly-detection/)]
 - [2023] A Model-Driven Deep Mixture Network for Robust Hyperspectral Anomaly Detection, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/10234436)]
 - [2023] LRR-Net: An Interpretable Deep Unfolding Network for Hyperspectral Anomaly Detection, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/10136197)]
