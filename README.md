@@ -6,7 +6,6 @@ We now foucs on model-data-driven methods in hyperspectral imaging, including
   - [Denoising](#Denoising)
   - [Fusion](#Fusion)
   - [Detection](#Detection)
-  - [Resources](#Resources)
   - [Journals](#Journals)
 
 <strong> Last Update: October 22, 2023 </strong>
@@ -121,20 +120,12 @@ We now foucs on model-data-driven methods in hyperspectral imaging, including
 - [2015] Background Subtraction Based on Low-Rank and Structured Sparse Decomposition, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/7076585)] [[code](https://github.com/utayao/LSD_Foreground_Detection)]
 
 
-<a name="Resources " />
-
-## Resources 
--  Hyperspectral Anomaly Detection Algorithms [[link](https://github.com/NomanShahRaza/hyperspectral_anomaly_detection_algorithms)]
--  Hyperspectral Image Denoising Benchmark [[link](https://github.com/junjun-jiang/Hyperspectral-Image-Denoising-Benchmark)]
--  Awesome Industrial Anomaly Detection [[link](https://github.com/M-3LAB/awesome-industrial-anomaly-detection)]
--  Anomaly Detection Learning Resources [[link](https://github.com/yzhao062/anomaly-detection-resources)]
-
 
 <a name="Journals " />
 
 ## Journals
-- IEEE Geoscience and Remote Sensing Magazine [[link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245518)]
 - IEEE Transactions on Geoscience and Remote Sensing [[link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)]
+- IEEE Geoscience and Remote Sensing Magazine [[link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245518)]
 - IEEE Geoscience and Remote Sensing Letters [[link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859)]
 - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing  [[link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443)]
 
