@@ -123,7 +123,13 @@ We now foucs on model-data-driven methods in hyperspectral imaging, including
 <a name="Resources " />
 
 ## Resources 
--  Hyperspectral Anomaly Detection Algorithms  [[link](https://github.com/NomanShahRaza/hyperspectral_anomaly_detection_algorithms)]
--  Hyperspectral Image Denoising Benchmark  [[link](https://github.com/junjun-jiang/Hyperspectral-Image-Denoising-Benchmark)]
+-  Hyperspectral Anomaly Detection Algorithms [[link](https://github.com/NomanShahRaza/hyperspectral_anomaly_detection_algorithms)]
+-  Hyperspectral Image Denoising Benchmark [[link](https://github.com/junjun-jiang/Hyperspectral-Image-Denoising-Benchmark)]
+-  Awesome Industrial Anomaly Detection [[link](https://github.com/M-3LAB/awesome-industrial-anomaly-detection)]
+-  Anomaly Detection Learning Resources [[link](https://github.com/yzhao062/anomaly-detection-resources)]
+
+
+
+
 
 
