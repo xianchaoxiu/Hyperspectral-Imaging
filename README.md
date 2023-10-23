@@ -1,6 +1,6 @@
 # Model-Data-Driven Hyperspectral Imaging
 
-We now foucs on model-data-driven methods in hyperspectral imaging, including 
+We now foucs on tensor-based methods in hyperspectral imaging, including 
   - [Surveys](#Surveys)
   - [Unmixing](#Unmixing)
   - [Denoising](#Denoising)
