@@ -124,6 +124,8 @@ We now foucs on tensor-based methods in hyperspectral imaging, including
 <a name="Journals " />
 
 ## Journals
+- Remote Sensing of Environment [[link](https://www.sciencedirect.com/journal/remote-sensing-of-environment)]
+- ISPRS Journal of Photogrammetry and Remote Sensing [[link](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing)]
 - IEEE Transactions on Geoscience and Remote Sensing [[link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)]
 - IEEE Geoscience and Remote Sensing Magazine [[link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245518)]
 - IEEE Geoscience and Remote Sensing Letters [[link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859)]
