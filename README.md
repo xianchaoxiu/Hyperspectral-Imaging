@@ -1,4 +1,4 @@
-# Model-Data-Driven Hyperspectral Imaging
+# Tensor-Based Hyperspectral Imaging
 
 We now foucs on tensor-based methods in hyperspectral imaging, including 
   - [Surveys](#Surveys)
