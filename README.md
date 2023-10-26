@@ -3,6 +3,7 @@
 We now foucs on tensor-based methods in hyperspectral imaging, including 
   - [Surveys](#Surveys)
   - [Classification](#Classification)
+  - [Clustering](#Clustering)
   - [Denoising](#Denoising)
   - [Detection](#Detection)
   - [Fusion](#Fusion)
@@ -43,6 +44,7 @@ We now foucs on tensor-based methods in hyperspectral imaging, including
 
 ## Classification
 - [2023] Universal Domain Adaptation for Remote Sensing Image Scene Classification, IEEE TGRS [[paper](https://ieeexplore.ieee.org/document/10043671)] [[code](https://github.com/zhu-xlab/UniDA)]
+- [2023] UCSL: Toward Unsupervised Common Subspace Learning for Cross-Modal Image Classification, IEEE TGRS [[paper](https://ieeexplore.ieee.org/document/10144390)] [[code](https://ieeexplore.ieee.org/document/10144390)]
 - [2023] Multilevel Spatial Feature-Based Manifold Metric Learning for Domain Adaptation in Remote Sensing Image Classification, IEEE TGRS [[paper](https://ieeexplore.ieee.org/document/10285503)] 
 - [2023] Discriminative Fisher Embedding Dictionary Transfer Learning for Object Recognition, IEEE TNNLS [[paper](https://ieeexplore.ieee.org/abstract/document/9465218)] [[code](https://github.com/shilinrui/DFEDTL)] 
 - [2023] Discriminative Manifold Distribution Alignment for Domain Adaptation, IEEE TSMC [[paper](https://ieeexplore.ieee.org/abstract/document/9863704)]
@@ -51,7 +53,6 @@ We now foucs on tensor-based methods in hyperspectral imaging, including
 - [2022] Unsupervised Domain-Adaptation-Based Tensor Feature Learning With Structure Preservation, IEEE TAI [[paper](https://ieeexplore.ieee.org/document/9744422)]
 - [2022] Joint Adaptive Dual Graph and Feature Selection for Domain Adaptation, IEEE TCSVT [[paper](https://ieeexplore.ieee.org/abstract/document/9406835)]
 - [2021] Manifold Transfer Learning via Discriminant Regression Analysis, IEEE TMM [[paper](https://ieeexplore.ieee.org/abstract/document/9136879)]
-- [2021] Deep Spatial-Spectral Subspace Clustering for Hyperspectral Image, IEEE TCSVT [[paper](https://ieeexplore.ieee.org/abstract/document/9208699)]
 - [2021] Locality-Adaptive Structured Dictionary Learning for Cross-Domain Recognition, IEEE TCSVT [[paper](https://ieeexplore.ieee.org/abstract/document/9448214)]
 - [2020] Domain Adaptation Based on Correlation Subspace Dynamic Distribution Alignment for Remote Sensing Image Scene Classification, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9070187)] 
 - [2020] Unsupervised Domain Adaptation via Discriminative Manifold Embedding and Alignment, AAAI [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5943)] [[code](https://github.com/LavieLuo/DRMEA)]
@@ -64,6 +65,12 @@ We now foucs on tensor-based methods in hyperspectral imaging, including
 - [2015] Semisupervised Transfer Component Analysis for Domain Adaptation in Remote Sensing Image Classification, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/7027189)] 
 
 
+<a name="Clustering" />
+
+## Clustering
+- [2021] Deep Spatial-Spectral Subspace Clustering for Hyperspectral Image, IEEE TCSVT [[paper](https://ieeexplore.ieee.org/abstract/document/9208699)]
+
+- 
 <a name="Denoising" />
 
 ## Denoising
