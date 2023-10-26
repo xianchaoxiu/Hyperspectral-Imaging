@@ -37,7 +37,7 @@ We now foucs on tensor-based methods in hyperspectral imaging, including
 - [2021] Multimodal Hyperspectral Remote Sensing: An Overview and Perspective, Science China Information Sciences [[paper](https://link.springer.com/article/10.1007/s11432-020-3084-1)]
 - [2021] Interpretable Hyperspectral Artificial Intelligence: When Non-Convex Modeling meets Hyperspectral Remote Sensing, IEEE GRSM [[paper](https://ieeexplore.ieee.org/abstract/document/9395693)]
 - [2021] A survey: Deep learning for hyperspectral image classification with few labeled samples, Neurocomputing [[paper]([https://www.sciencedirect.com/science/article/pii/S0925231221004033)] [[code](https://github.com/ShuGuoJ/HSI-Classification)]  
-- [2021] Hyperspectral Image Classification—Traditional to Deep Models: A Survey for Future Prospects, IEEE JSTARS [[paper]([https://ieeexplore.ieee.org/abstract/document/9645266](https://ieeexplore.ieee.org/abstract/document/9645266)] [[code](https://github.com/AnkurDeria/HSI-Traditional-to-Deep-Models)] 
+- [2021] Hyperspectral Image Classification—Traditional to Deep Models: A Survey for Future Prospects, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/abstract/document/9645266)] [[code](https://github.com/AnkurDeria/HSI-Traditional-to-Deep-Models)] 
 - [2020] Feature Extraction for Hyperspectral Imagery: The Evolution from Shallow to Deep: Overview and Toolbox, IEEE GRSM [[paper](https://ieeexplore.ieee.org/abstract/document/9082155)] [[code](https://github.com/danfenghong/HyFTech)] 
 
 
@@ -69,9 +69,19 @@ We now foucs on tensor-based methods in hyperspectral imaging, including
 <a name="Clustering" />
 
 ## Clustering
+- [2022] Heterogeneous Regularization-Based Tensor Subspace Clustering for Hyperspectral Band Selection, IEEE TNNLS [[paper](https://ieeexplore.ieee.org/abstract/document/9737043)]
+- [2022] Deep Low-Rank Graph Convolutional Subspace Clustering for Hyperspectral Image, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9825691)]
+- [2022] Tensorial Multiview Subspace Clustering for Polarimetric Hyperspectral Images, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9774396)]
+- [2022] Graph Regularized Spatial-spectral Subspace Clustering for Hyperspectral Band Selection, Neural Networks [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608022002313)] [[code](https://github.com/WangJun2023/GRSC)] 
+- [2021] A Fast and Accurate Similarity-Constrained Subspace Clustering Algorithm for Hyperspectral Image, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/abstract/document/9573388)] [[code](https://github.com/carlosh93/SC-SSC)] 
 - [2021] Deep Spatial-Spectral Subspace Clustering for Hyperspectral Image, IEEE TCSVT [[paper](https://ieeexplore.ieee.org/abstract/document/9208699)]
+- [2021] Subspace Clustering for Hyperspectral Images via Dictionary Learning With Adaptive Regularization, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9612216)]
+- [2021] Hybrid-Hypergraph Regularized Multiview Subspace Clustering for Hyperspectral Images, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9420759)]
+- [2020] Multi-Objective Sparse Subspace Clustering for Hyperspectral Imagery, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/8894542)]
+- [2019] Laplacian-Regularized Low-Rank Subspace Clustering for Hyperspectral Image Band Selection, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/8485428)] 
 
-- 
+
+
 <a name="Denoising" />
 
 ## Denoising
