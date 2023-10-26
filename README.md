@@ -51,7 +51,7 @@ We now foucs on tensor-based methods in hyperspectral imaging, including
 - [2023] Discriminative Manifold Distribution Alignment for Domain Adaptation, IEEE TSMC [[paper](https://ieeexplore.ieee.org/abstract/document/9863704)]
 - [2023] Domain Adaptation Multitask Optimization, IEEE TC [[paper](https://ieeexplore.ieee.org/abstract/document/9965583)]
 - [2022] Weighted Correlation Embedding Learning for Domain Adaptation, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/9846882)] [[code](https://github.com/danfenghong/HyFTech)]
-- [2022] Unsupervised Domain-Adaptation-Based Tensor Feature Learning With Structure Preservation, IEEE TAI [[paper](https://ieeexplore.ieee.org/document/9744422)]
+- [2022] Unsupervised Domain-Adaptation-Based Tensor Feature Learning With Structure Preservation, IEEE TAI [[paper](https://ieeexplore.ieee.org/document/9744422)]  [[code](https://github.com/alibraytee/UDA-TFL)]
 - [2022] Joint Adaptive Dual Graph and Feature Selection for Domain Adaptation, IEEE TCSVT [[paper](https://ieeexplore.ieee.org/abstract/document/9406835)]
 - [2021] Manifold Transfer Learning via Discriminant Regression Analysis, IEEE TMM [[paper](https://ieeexplore.ieee.org/abstract/document/9136879)]
 - [2021] Locality-Adaptive Structured Dictionary Learning for Cross-Domain Recognition, IEEE TCSVT [[paper](https://ieeexplore.ieee.org/abstract/document/9448214)]
