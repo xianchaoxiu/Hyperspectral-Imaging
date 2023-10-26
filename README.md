@@ -37,7 +37,7 @@ We now foucs on tensor-based methods in hyperspectral imaging, including
 - [2021] Multimodal Hyperspectral Remote Sensing: An Overview and Perspective, Science China Information Sciences [[paper](https://link.springer.com/article/10.1007/s11432-020-3084-1)]
 - [2021] Interpretable Hyperspectral Artificial Intelligence: When Non-Convex Modeling meets Hyperspectral Remote Sensing, IEEE GRSM [[paper](https://ieeexplore.ieee.org/abstract/document/9395693)]
 - [2021] A survey: Deep learning for hyperspectral image classification with few labeled samples, Neurocomputing [[paper]([https://www.sciencedirect.com/science/article/pii/S0925231221004033)] [[code](https://github.com/ShuGuoJ/HSI-Classification)]  
-- [2021] Hyperspectral Image Classification—Traditional to Deep Models: A Survey for Future Prospects, IEEE JSTARS [[paper]([https://ieeexplore.ieee.org/abstract/document/9645266](https://ieeexplore.ieee.org/abstract/document/9645266)] [[code]([https://github.com/danfenghong/HyFTech](https://github.com/AnkurDeria/HSI-Traditional-to-Deep-Models)] 
+- [2021] Hyperspectral Image Classification—Traditional to Deep Models: A Survey for Future Prospects, IEEE JSTARS [[paper]([https://ieeexplore.ieee.org/abstract/document/9645266](https://ieeexplore.ieee.org/abstract/document/9645266)] [[code](https://github.com/AnkurDeria/HSI-Traditional-to-Deep-Models)] 
 - [2020] Feature Extraction for Hyperspectral Imagery: The Evolution from Shallow to Deep: Overview and Toolbox, IEEE GRSM [[paper](https://ieeexplore.ieee.org/abstract/document/9082155)] [[code](https://github.com/danfenghong/HyFTech)] 
 
 
