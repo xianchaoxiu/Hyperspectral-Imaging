@@ -1,21 +1,21 @@
 # Tensor-Based Hyperspectral Imaging
 
 We now foucs on tensor-based methods in hyperspectral imaging, including 
-  - [Surveys](#Surveys)
+  - [Survey](#Survey)
   - [Classification](#Classification)
   - [Clustering](#Clustering)
   - [Denoising](#Denoising)
   - [Detection](#Detection)
   - [Fusion](#Fusion)
   - [Unmixing](#Unmixing)
-  - [Journals](#Journals)
+  - [Journal](#Journal)
 
-<strong> Last Update: October 22, 2023 </strong>
+<strong> Last Update: October 28, 2023 </strong>
 
 
-<a name="Surveys" />
+<a name="Survey" />
 
-## Surveys
+## Survey
 - [2023] Remote Sensing Object Detection Meets Deep Learning: A Meta-Review of Challenges and Advances, arXiv [[paper](https://arxiv.org/abs/2309.06751)]
 - [2023] Tensor Decompositions for Hyperspectral Data Processing in Remote Sensing: A Comprehensive Review, IEEE GRSM [[paper](https://ieeexplore.ieee.org/abstract/document/10035509)]
 - [2023] Sparse Tensor Prior for Hyperspectral, Multispectral, and Panchromatic Image Fusion, IEEE/CAA JAS [[paper](https://ieeexplore.ieee.org/abstract/document/9910372)]
@@ -180,9 +180,9 @@ We now foucs on tensor-based methods in hyperspectral imaging, including
 
 
 
-<a name="Journals " />
+<a name="Journal " />
 
-## Journals
+## Journal
 - Remote Sensing of Environment [[link](https://www.sciencedirect.com/journal/remote-sensing-of-environment)]
 - ISPRS Journal of Photogrammetry and Remote Sensing [[link](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing)]
 - IEEE Transactions on Geoscience and Remote Sensing [[link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)]
