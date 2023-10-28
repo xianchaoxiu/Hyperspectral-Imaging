@@ -1,6 +1,6 @@
 # Tensor-Based Hyperspectral Imaging
 
-We now foucs on tensor-based methods in hyperspectral imaging, including 
+We now foucs on tensor-based methods in hyperspectral imaging.
   - [Survey](#Survey)
   - [Classification](#Classification)
   - [Clustering](#Clustering)
