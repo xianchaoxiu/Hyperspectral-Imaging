@@ -39,7 +39,7 @@ We now foucs on tensor-based methods in hyperspectral imaging.
 - [2021] A Survey: Deep Learning for Hyperspectral Image Classification with Few Labeled Samples, Neurocomputing [[paper]([https://www.sciencedirect.com/science/article/pii/S0925231221004033)] [[code](https://github.com/ShuGuoJ/HSI-Classification)]  
 - [2021] Hyperspectral Image Classification—Traditional to Deep Models: A Survey for Future Prospects, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/abstract/document/9645266)] [[code](https://github.com/AnkurDeria/HSI-Traditional-to-Deep-Models)] 
 - [2020] Feature Extraction for Hyperspectral Imagery: The Evolution from Shallow to Deep: Overview and Toolbox, IEEE GRSM [[paper](https://ieeexplore.ieee.org/abstract/document/9082155)] [[code](https://github.com/danfenghong/HyFTech)] 
-
+- [2020] Recent Advances of Hyperspectral Imaging Technology and Applications in Agriculture, Remote Sensing [[paper](https://www.mdpi.com/2072-4292/12/16/2659)] 
 
 <a name="Classification" />
 
