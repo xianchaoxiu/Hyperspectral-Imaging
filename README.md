@@ -69,16 +69,21 @@ We now foucs on tensor-based methods in hyperspectral imaging.
 <a name="Clustering" />
 
 ## Clustering
+- [2023] Diffusion Subspace Clustering for Hyperspectral Images, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/abstract/document/10179942)]
 - [2022] Heterogeneous Regularization-Based Tensor Subspace Clustering for Hyperspectral Band Selection, IEEE TNNLS [[paper](https://ieeexplore.ieee.org/abstract/document/9737043)]
 - [2022] Deep Low-Rank Graph Convolutional Subspace Clustering for Hyperspectral Image, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9825691)]
 - [2022] Tensorial Multiview Subspace Clustering for Polarimetric Hyperspectral Images, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9774396)]
+- [2022] Subspace Clustering for Hyperspectral Images via Dictionary Learning With Adaptive Regularization, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9612216)] [[code](https://github.com/AngryCai/NCSC)]
+- [2022] Superpixel Contracted Neighborhood Contrastive Subspace Clustering Network for Hyperspectral Images, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9785997)]
 - [2022] Graph Regularized Spatial-spectral Subspace Clustering for Hyperspectral Band Selection, Neural Networks [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608022002313)] [[code](https://github.com/WangJun2023/GRSC)] 
 - [2021] A Fast and Accurate Similarity-Constrained Subspace Clustering Algorithm for Hyperspectral Image, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/abstract/document/9573388)] [[code](https://github.com/carlosh93/SC-SSC)] 
 - [2021] Deep Spatial-Spectral Subspace Clustering for Hyperspectral Image, IEEE TCSVT [[paper](https://ieeexplore.ieee.org/abstract/document/9208699)]
 - [2021] Subspace Clustering for Hyperspectral Images via Dictionary Learning With Adaptive Regularization, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9612216)]
 - [2021] Hybrid-Hypergraph Regularized Multiview Subspace Clustering for Hyperspectral Images, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9420759)]
 - [2020] Multi-Objective Sparse Subspace Clustering for Hyperspectral Imagery, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/8894542)]
+- [2020] Graph Convolutional Subspace Clustering: A Robust Subspace Clustering Framework for Hyperspectral Image, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9181470)] [[code](https://github.com/AngryCai/GraphConvSC)]
 - [2019] Laplacian-Regularized Low-Rank Subspace Clustering for Hyperspectral Image Band Selection, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/8485428)] 
+
 
 
 
