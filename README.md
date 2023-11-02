@@ -70,6 +70,7 @@ We now foucs on tensor-based methods in hyperspectral imaging.
 
 ## Clustering
 - [2023] Diffusion Subspace Clustering for Hyperspectral Images, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/abstract/document/10179942)]
+- [2022] Sparsity Regularized Deep Subspace Clustering for Multicriterion-Based Hyperspectral Band Selection, IEEE TGRS [[paper](https://ieeexplore.ieee.org/document/9767632)]
 - [2022] Heterogeneous Regularization-Based Tensor Subspace Clustering for Hyperspectral Band Selection, IEEE TNNLS [[paper](https://ieeexplore.ieee.org/abstract/document/9737043)]
 - [2022] Deep Low-Rank Graph Convolutional Subspace Clustering for Hyperspectral Image, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9825691)]
 - [2022] Tensorial Multiview Subspace Clustering for Polarimetric Hyperspectral Images, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9774396)]
@@ -90,6 +91,7 @@ We now foucs on tensor-based methods in hyperspectral imaging.
 <a name="Denoising" />
 
 ## Denoising
+- [2023] Content-Aware Subspace Low-Rank Tensor Recovery for Hyperspectral Image Restoration, IEEE TGRS [[paper](https://ieeexplore.ieee.org/document/10238728)]
 - [2023] Deep Tensor Attention Prior Network for Hyperspectral Image Denoising, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/abstract/document/10179990)]
 - [2023] Hyperspectral Image Denoising via Weighted Multidirectional Low-Rank Tensor Recovery, IEEE TC [[paper](https://ieeexplore.ieee.org/abstract/document/9920675)]
 - [2023] Nonlocal Structured Sparsity Regularization Modeling for Hyperspectral Image Denoising, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/10106506)]
