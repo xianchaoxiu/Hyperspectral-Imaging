@@ -118,6 +118,7 @@ We now foucs on tensor-based methods in hyperspectral imaging.
 <a name="Detection" />
 
 ## Detection
+- [2023] Anomaly Detection for Hyperspectral Imagery via Tensor Low-Rank Approximation With Multiple Subspace Learning, IEEE TGRS [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10108976)]
 - [2023] Learning Tensor Low-Rank Representation for Hyperspectral Anomaly Detection, IEEE TC [[paper](https://ieeexplore.ieee.org/abstract/document/9781337)] [[code](https://openremotesensing.net/knowledgebase/learning-tensor-low-rank-representation-for-hyperspectral-anomaly-detection/)]
 - [2023] A Model-Driven Deep Mixture Network for Robust Hyperspectral Anomaly Detection, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/10234436)]
 - [2023] LRR-Net: An Interpretable Deep Unfolding Network for Hyperspectral Anomaly Detection, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/10136197)]
