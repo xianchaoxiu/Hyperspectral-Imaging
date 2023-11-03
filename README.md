@@ -7,6 +7,7 @@ We now foucs on tensor-based methods in hyperspectral imaging.
   - [Denoising](#Denoising)
   - [Detection](#Detection)
   - [Fusion](#Fusion)
+  - [Pansharpening](#Pansharpening)
   - [Super-Resolution](#Super-Resolution)
   - [Unmixing](#Unmixing)
   - [Journals](#Journals)
@@ -28,6 +29,7 @@ We now foucs on tensor-based methods in hyperspectral imaging.
 - [2023] Integration of Physics-Based and Data-Driven Models for Hyperspectral Image Unmixing: A Summary of Current Methods, IEEE SPM [[paper](https://ieeexplore.ieee.org/abstract/document/9321154)]
 - [2022] Hyperspectral Image Classification—Traditional to Deep Models: A Survey for Future Prospects, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/abstract/document/9645266)]
 - [2022] Hyperspectral Unmixing Based on Nonnegative Matrix Factorization: A Comprehensive Review, IEEE JSTARS [[paper](https://www.sciencedirect.com/science/article/pii/S1569843222001248)]
+- [2022] Machine Learning in Pansharpening: A Benchmark, from Shallow to Deep Networks, IEEE GRSM [[paper](https://ieeexplore.ieee.org/document/9844267)] [[code](https://github.com/liangjiandeng/DLPan-Toolbox)]
 - [2022] Hyperspectral Anomaly Detection Based on Machine Learning: An Overview, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/abstract/document/9760098)]
 - [2022] Hyperspectral Anomaly Detection: A Survey, IEEE GRSM [[paper](https://ieeexplore.ieee.org/document/9532003)]
 - [2022] Hyperspectral Anomaly Detection Using Deep Learning: A Review, Remote Sensing [[paper](https://www.mdpi.com/2072-4292/14/9/1973)]
@@ -157,6 +159,19 @@ We now foucs on tensor-based methods in hyperspectral imaging.
 - [2020] Nonlocal Coupled Tensor CP Decomposition for Hyperspectral and Multispectral Image Fusion, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/8835149)]
 - [2020] Nonlocal Sparse Tensor Factorization for Semiblind Hyperspectral and Multispectral Image Fusion, IEEE TC [[paper](https://ieeexplore.ieee.org/abstract/document/8917657)]
 - [2018] Spatial–Spectral-Graph-Regularized Low-Rank Tensor Decomposition for Multispectral and Hyperspectral Image Fusion, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/abstract/document/8253497)] 
+
+
+
+<a name="Pansharpening" />
+
+## Pansharpening
+
+- [2023] LRTCFPan: Low-Rank Tensor Completion Based Framework for Pansharpening, IEEE TIP [[paper](https://ieeexplore.ieee.org/document/10054514)] [[code](https://github.com/zhongchengwu/code_LRTCFPan)]
+- [2023] PanFlowNet: A Flow-Based Deep Network for Pan-sharpening, ICCV [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Yang_PanFlowNet_A_Flow-Based_Deep_Network_for_Pan-Sharpening_ICCV_2023_paper.html)] [[code](https://github.com/yggame/PanFlowNet)]
+- [2022] A Unified Pansharpening Method With Structure Tensor Driven Spatial Consistency and Deep Plug-and-Play Priors, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9966820)]
+- [2021] PanCSC-Net: A Model-Driven Deep Unfolding Method for Pansharpening, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9559907)] [[code](https://github.com/xiangyongcao/PanCSC-Net)]
+
+
 
 
 <a name="Super-Resolution" />
