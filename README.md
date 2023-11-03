@@ -7,6 +7,7 @@ We now foucs on tensor-based methods in hyperspectral imaging.
   - [Denoising](#Denoising)
   - [Detection](#Detection)
   - [Fusion](#Fusion)
+  - [Super-Resolution](#Super-Resolution)
   - [Unmixing](#Unmixing)
   - [Journals](#Journals)
 
@@ -158,7 +159,18 @@ We now foucs on tensor-based methods in hyperspectral imaging.
 - [2018] Spatial–Spectral-Graph-Regularized Low-Rank Tensor Decomposition for Multispectral and Hyperspectral Image Fusion, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/abstract/document/8253497)] 
 
 
+<a name="Super-Resolution" />
 
+## Super-Resolution
+- [2023] Bayesian Nonlocal Patch Tensor Factorization for Hyperspectral Image Super-Resolution, IEEE TIP [[paper](https://ieeexplore.ieee.org/document/10299572)]
+- [2022] Hyperspectral Super-Resolution via Coupled Tensor Ring Factorization, Pattern Recognition [[paper](https://www.sciencedirect.com/science/article/abs/pii/S003132032100460X)]
+- [2022] An Iterative Regularization Method Based on Tensor Subspace Representation for Hyperspectral Image Super-Resolution, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9777947)]  [[code](https://ieeexplore.ieee.org/abstract/document/9777947)]
+- [2021] Model-Guided Deep Hyperspectral Image Super-Resolution, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/9429905)]  [[code](https://ieeexplore.ieee.org/abstract/document/9429905)]
+- [2021] Spatial-Spectral Structured Sparse Low-Rank Representation for Hyperspectral Image Super-Resolution, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/9356457)]
+- [2021] Spectral Superresolution of Multispectral Imagery with Joint Sparse and Low-Rank Learning, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9120344)]  [[code](https://github.com/danfenghong/IEEE_TGRS_J-SLoL)]
+- [2020] Nonnegative and Nonlocal Sparse Tensor Factorization-Based Hyperspectral Image Super-Resolution, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9082892)]
+- [2020] Learning Spatial-Spectral Prior for Super-Resolution of Hyperspectral Imagery, IEEE TCI [[paper](https://ieeexplore.ieee.org/abstract/document/9097432)]
+- [2020] Weighted Low-Rank Tensor Recovery for Hyperspectral Image Restoration, IEEE TC [[paper](https://ieeexplore.ieee.org/abstract/document/9076843)]
 
 <a name="Unmixing" />
 
