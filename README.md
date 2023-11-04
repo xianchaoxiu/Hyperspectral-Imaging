@@ -117,8 +117,7 @@ We now foucs on tensor-based methods in hyperspectral imaging.
 - [2019] Hyperspectral Image Denoising via Matrix Factorization and Deep Prior Regularization, IEEE TIP [[paper](https://ieeexplore.ieee.org/document/8767025)]
 - [2018] Hyperspectral Image Restoration Via Total Variation Regularized Low-Rank Tensor Decomposition, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/abstract/document/8233403)] [[code](https://github.com/zhaoxile/Hyperspectral-Image-Restoration-via-Total-Variation-Regularized-Low-rank-Tensor-Decomposition)] 
 - [2018] FFDNet: Toward a Fast and Flexible Solution for CNN-Based Image Denoising, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/8365806)] [[code](https://github.com/cszn/FFDNet)]
-
-
+- [2016] Deep ADMM-Net for Compressive Sensing MRI, NIPS [[paper](https://ieeexplore.ieee.org/abstract/document/8365806)] [[code](https://github.com/yangyan92/Deep-ADMM-Net)]
 
 <a name="Detection" />
 
@@ -165,12 +164,20 @@ We now foucs on tensor-based methods in hyperspectral imaging.
 <a name="Pansharpening" />
 
 ## Pansharpening
-
+- [2023] Pansharpening With Spatial Hessian Non-Convex Sparse and Spectral Gradient Low Rank Priors, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/10091788)]
+- [2023] Pansharpening Method Based on Deep Nonlocal Unfolding, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/10155438)]
+- [2023] Unsupervised Pansharpening via Low-rank Diffusion Model，arXiv [[paper](https://arxiv.org/abs/2305.10925)] 
 - [2023] LRTCFPan: Low-Rank Tensor Completion Based Framework for Pansharpening, IEEE TIP [[paper](https://ieeexplore.ieee.org/document/10054514)] [[code](https://github.com/zhongchengwu/code_LRTCFPan)]
 - [2023] PanFlowNet: A Flow-Based Deep Network for Pan-sharpening, ICCV [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Yang_PanFlowNet_A_Flow-Based_Deep_Network_for_Pan-Sharpening_ICCV_2023_paper.html)] [[code](https://github.com/yggame/PanFlowNet)]
 - [2022] A Unified Pansharpening Method With Structure Tensor Driven Spatial Consistency and Deep Plug-and-Play Priors, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9966820)]
 - [2021] PanCSC-Net: A Model-Driven Deep Unfolding Method for Pansharpening, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9559907)] [[code](https://github.com/xiangyongcao/PanCSC-Net)]
-
+- [2021] A Nonconvex Pansharpening Model With Spatial and Spectral Gradient Difference-Induced Nonconvex Sparsity Priors, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9434419)]
+- [2021] Hyperspectral Pansharpening Based on Improved Deep Image Prior and Residual Reconstruction, IEEE TGRS [[paper](https://ieeexplore.ieee.org/document/9664535)] [[code](https://github.com/wgcban/DIP-HyperKite)]
+- [2020] Hyperspectral Pansharpening With Deep Priors, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/8750899)] 
+- [2018] Learning Low-Rank Decomposition for Pan-Sharpening With Spatial-Spectral Offsets, IEEE TNNLS [[paper](https://ieeexplore.ieee.org/abstract/document/8016676)]
+- [2018] Pansharpening With Multiscale Geometric Support Tensor Machine, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/8295005)]
+- [2017] A Joint Sparse and Low-Rank Decomposition for Pansharpening of Multispectral Images, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/7885538)]
+- [2014] Pansharpening Based on Low-Rank and Sparse Decomposition, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/abstract/document/6893027)]
 
 
 
@@ -185,7 +192,14 @@ We now foucs on tensor-based methods in hyperspectral imaging.
 - [2021] Spectral Superresolution of Multispectral Imagery with Joint Sparse and Low-Rank Learning, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9120344)]  [[code](https://github.com/danfenghong/IEEE_TGRS_J-SLoL)]
 - [2020] Nonnegative and Nonlocal Sparse Tensor Factorization-Based Hyperspectral Image Super-Resolution, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9082892)]
 - [2020] Learning Spatial-Spectral Prior for Super-Resolution of Hyperspectral Imagery, IEEE TCI [[paper](https://ieeexplore.ieee.org/abstract/document/9097432)]
+- [2020] Hyperspectral Images Super-Resolution via Learning High-Order Coupled Tensor Ring Representation, IEEE TNNLS [[paper](https://ieeexplore.ieee.org/abstract/document/8948303)]
 - [2020] Weighted Low-Rank Tensor Recovery for Hyperspectral Image Restoration, IEEE TC [[paper](https://ieeexplore.ieee.org/abstract/document/9076843)]
+- [2019] Nonlocal Patch Tensor Sparse Representation for Hyperspectral Image Super-Resolution, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/8618436)]
+- [2019] Hyperspectral Image Super-Resolution via Subspace-Based Low Tensor Multi-Rank Regularization, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/8718504)]
+- [2019] Learning a Low Tensor-Train Rank Representation for Hyperspectral Image Super-Resolution, IEEE TNNLS [[paper](https://ieeexplore.ieee.org/abstract/document/8603806)]
+
+
+
 
 <a name="Unmixing" />
 
