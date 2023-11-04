@@ -12,7 +12,7 @@ We now foucs on tensor-based methods in hyperspectral imaging.
   - [Unmixing](#Unmixing)
   - [Journals](#Journals)
 
-<strong> Last Update: October 28, 2023 </strong>
+<strong> Last Update: Nov 4, 2023 </strong>
 
 
 <a name="Surveys" />
@@ -94,6 +94,7 @@ We now foucs on tensor-based methods in hyperspectral imaging.
 <a name="Denoising" />
 
 ## Denoising
+- [2023] Tuning-free Plug-and-Play Hyperspectral Image Deconvolution with Deep Priors, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/10061448)] [[code](https://github.com/xiuheng-wang/Tuning_free_PnP_HSI_deconvolution)]  
 - [2023] Content-Aware Subspace Low-Rank Tensor Recovery for Hyperspectral Image Restoration, IEEE TGRS [[paper](https://ieeexplore.ieee.org/document/10238728)]
 - [2023] Deep Tensor Attention Prior Network for Hyperspectral Image Denoising, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/abstract/document/10179990)]
 - [2023] Hyperspectral Image Denoising via Weighted Multidirectional Low-Rank Tensor Recovery, IEEE TC [[paper](https://ieeexplore.ieee.org/abstract/document/9920675)]
@@ -128,6 +129,7 @@ We now foucs on tensor-based methods in hyperspectral imaging.
 - [2023] LRR-Net: An Interpretable Deep Unfolding Network for Hyperspectral Anomaly Detection, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/10136197)]
 - [2023] Hyperspectral Anomaly Detection via Structured Sparsity Plus Enhanced Low-Rankness, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/10148989)]
 - [2022] Hyperspectral Anomaly Detection With Relaxed Collaborative Representation, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9826842)]
+- [2022] TFPnP: Tuning-free Plug-and-Play Proximal Algorithms with Applications to Inverse Imaging Problems, Journal of Machine Learning Research [[paper](https://jmlr.csail.mit.edu/papers/volume23/20-1297/20-1297.pdf)][[code](https://github.com/Vandermode/TFPnP)]
 - [2022] Deep Low-Rank Prior for Hyperspectral Anomaly Detection, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9756439)]
 - [2022] Prior-Based Tensor Approximation for Anomaly Detection in Hyperspectral Imagery, IEEE TNNLS [[paper](https://ieeexplore.ieee.org/abstract/document/9288702)][[code](https://github.com/l7170/PTA-HAD.git)]
 - [2022] Hyperspectral Anomaly Detection With Tensor Average Rank and Piecewise Smoothness Constraints, IEEE TNNLS [[paper](https://ieeexplore.ieee.org/abstract/document/9728731)]
@@ -186,11 +188,13 @@ We now foucs on tensor-based methods in hyperspectral imaging.
 
 ## Super-Resolution
 - [2023] Bayesian Nonlocal Patch Tensor Factorization for Hyperspectral Image Super-Resolution, IEEE TIP [[paper](https://ieeexplore.ieee.org/document/10299572)]
+- [2022] Hyperspectral Image Super-Resolution via Deep Prior Regularization With Parameter Estimation, IEEE ICSVT [[paper](https://ieeexplore.ieee.org/abstract/document/9427207)] [[code](https://github.com/xiuheng-wang/Tuning_free_PnP_HSI_deconvolution)]
 - [2022] Hyperspectral Super-Resolution via Coupled Tensor Ring Factorization, Pattern Recognition [[paper](https://www.sciencedirect.com/science/article/abs/pii/S003132032100460X)]
-- [2022] An Iterative Regularization Method Based on Tensor Subspace Representation for Hyperspectral Image Super-Resolution, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9777947)]  [[code](https://ieeexplore.ieee.org/abstract/document/9777947)]
+- [2022] Hyperspectral Image Super-resolution with Deep Priors and Degradation Model Inversion, IEEE ICASSP [[paper](https://ieeexplore.ieee.org/abstract/document/9747339)] [[code](https://github.com/xiuheng-wang/Deep_gradient_HSI_superresolution)]
+- [2022] An Iterative Regularization Method Based on Tensor Subspace Representation for Hyperspectral Image Super-Resolution, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9777947)] [[code](https://ieeexplore.ieee.org/abstract/document/9777947)]
 - [2021] Model-Guided Deep Hyperspectral Image Super-Resolution, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/9429905)]  [[code](https://ieeexplore.ieee.org/abstract/document/9429905)]
 - [2021] Spatial-Spectral Structured Sparse Low-Rank Representation for Hyperspectral Image Super-Resolution, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/9356457)]
-- [2021] Spectral Superresolution of Multispectral Imagery with Joint Sparse and Low-Rank Learning, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9120344)]  [[code](https://github.com/danfenghong/IEEE_TGRS_J-SLoL)]
+- [2021] Spectral Superresolution of Multispectral Imagery with Joint Sparse and Low-Rank Learning, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9120344)] [[code](https://github.com/danfenghong/IEEE_TGRS_J-SLoL)]
 - [2020] Nonnegative and Nonlocal Sparse Tensor Factorization-Based Hyperspectral Image Super-Resolution, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9082892)]
 - [2020] Learning Spatial-Spectral Prior for Super-Resolution of Hyperspectral Imagery, IEEE TCI [[paper](https://ieeexplore.ieee.org/abstract/document/9097432)]
 - [2020] Hyperspectral Images Super-Resolution via Learning High-Order Coupled Tensor Ring Representation, IEEE TNNLS [[paper](https://ieeexplore.ieee.org/abstract/document/8948303)]
