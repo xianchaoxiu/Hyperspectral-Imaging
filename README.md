@@ -1,4 +1,4 @@
-# Tensor-Based Hyperspectral Imaging
+# Hyperspectral Imaging
 
 We now foucs on tensor-based methods in hyperspectral imaging.
   - [Surveys](#Surveys)
