@@ -119,7 +119,7 @@ We now foucs on tensor-based methods in hyperspectral imaging.
 - [2019] Hyperspectral Image Denoising via Matrix Factorization and Deep Prior Regularization, IEEE TIP [[paper](https://ieeexplore.ieee.org/document/8767025)]
 - [2018] Hyperspectral Image Restoration Via Total Variation Regularized Low-Rank Tensor Decomposition, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/abstract/document/8233403)] [[code](https://github.com/zhaoxile/Hyperspectral-Image-Restoration-via-Total-Variation-Regularized-Low-rank-Tensor-Decomposition)] 
 - [2018] FFDNet: Toward a Fast and Flexible Solution for CNN-Based Image Denoising, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/8365806)] [[code](https://github.com/cszn/FFDNet)]
-- [2016] Deep ADMM-Net for Compressive Sensing MRI, NIPS [[paper](https://ieeexplore.ieee.org/abstract/document/8365806)] [[code](https://github.com/yangyan92/Deep-ADMM-Net)]
+- [2016] Deep ADMM-Net for Compressive Sensing MRI, NIPS [[paper](https://proceedings.neurips.cc/paper_files/paper/2016/hash/1679091c5a880faf6fb5e6087eb1b2dc-Abstract.html)] [[code](https://github.com/yangyan92/Deep-ADMM-Net)]
 
 <a name="Detection" />
 
