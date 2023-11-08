@@ -28,6 +28,7 @@ We now focus on tensor model-guided data-driven approaches in hyperspectral imag
 - [2023] Deep Learning in Multimodal Remote Sensing Data Fusion: A Comprehensive Review, International Journal of Applied Earth Observation and Geoinformation [[paper](https://ieeexplore.ieee.org/abstract/document/10144690)]
 - [2023] Integration of Physics-Based and Data-Driven Models for Hyperspectral Image Unmixing: A Summary of Current Methods, IEEE SPM [[paper](https://ieeexplore.ieee.org/abstract/document/9321154)]  [[code](https://github.com/xiuheng-wang/awesome-hyperspectral-image-unmixing)]
 - [2022] Hyperspectral Image Classification—Traditional to Deep Models: A Survey for Future Prospects, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/abstract/document/9645266)]
+- [2022] Low-Rank and Sparse Representation for Hyperspectral Image Processing: A Review, IEEE GRSM [[paper](https://ieeexplore.ieee.org/abstract/document/9451654)]
 - [2022] Hyperspectral Unmixing Based on Nonnegative Matrix Factorization: A Comprehensive Review, IEEE JSTARS [[paper](https://www.sciencedirect.com/science/article/pii/S1569843222001248)]
 - [2022] Machine Learning in Pansharpening: A Benchmark, from Shallow to Deep Networks, IEEE GRSM [[paper](https://ieeexplore.ieee.org/document/9844267)] [[code](https://github.com/liangjiandeng/DLPan-Toolbox)]
 - [2022] Hyperspectral Anomaly Detection Based on Machine Learning: An Overview, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/abstract/document/9760098)]
