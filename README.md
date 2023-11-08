@@ -214,6 +214,7 @@ We now focus on tensor model-guided data-driven approaches in hyperspectral imag
 - [2019] Nonlocal Patch Tensor Sparse Representation for Hyperspectral Image Super-Resolution, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/8618436)]
 - [2019] Hyperspectral Image Super-Resolution via Subspace-Based Low Tensor Multi-Rank Regularization, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/8718504)]
 - [2019] Learning a Low Tensor-Train Rank Representation for Hyperspectral Image Super-Resolution, IEEE TNNLS [[paper](https://ieeexplore.ieee.org/abstract/document/8603806)]
+- [2016] Hyperspectral Image Super-Resolution via Non-Negative Structured Sparse Representation, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/7438864)]
 - [2014] Sparse Spatio-spectral Representation for Hyperspectral Image Super Resolution, ECCV [[paper](https://link.springer.com/chapter/10.1007/978-3-319-10584-0_5)]  [[code](https://openremotesensing.net/wp-content/uploads/2016/12/HSISuperRes.zip)]
 
 
