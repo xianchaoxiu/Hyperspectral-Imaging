@@ -23,7 +23,6 @@ We now focus on tensor model-guided data-driven approaches in hyperspectral imag
 - [2023] Sparse Tensor Prior for Hyperspectral, Multispectral, and Panchromatic Image Fusion, IEEE/CAA JAS [[paper](https://ieeexplore.ieee.org/abstract/document/9910372)]
 - [2023] A Survey on Hyperspectral Image Restoration: From the View of Low-Rank Tensor Approximation, Science China Information Sciences [[paper](https://link.springer.com/article/10.1007/s11432-022-3609-4)]
 - [2023] Multispectral and Hyperspectral Image Fusion In Remote Sensing: A Survey, Information Fusion [[paper](https://www.sciencedirect.com/science/article/pii/S1566253522001312)]
-- [2023] Image Denoising: The Deep Learning Revolution and Beyond- A Survey Paper, SIAM Journal on Imaging Sciences [[paper](https://epubs.siam.org/doi/abs/10.1137/23M1545859)]
 - [2023] Hyperspectral Image Denoising: From Model-Driven, Data-Driven, to Model-Data-Driven, IEEE TNNLS [[paper](https://ieeexplore.ieee.org/abstract/document/10144690)]
 - [2023] Deep Learning in Multimodal Remote Sensing Data Fusion: A Comprehensive Review, International Journal of Applied Earth Observation and Geoinformation [[paper](https://ieeexplore.ieee.org/abstract/document/10144690)]
 - [2023] Integration of Physics-Based and Data-Driven Models for Hyperspectral Image Unmixing: A Summary of Current Methods, IEEE SPM [[paper](https://ieeexplore.ieee.org/abstract/document/9321154)]  [[code](https://github.com/xiuheng-wang/awesome-hyperspectral-image-unmixing)]
