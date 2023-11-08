@@ -12,7 +12,7 @@ We now foucs on tensor-based methods in hyperspectral imaging.
   - [Unmixing](#Unmixing)
   - [Journals](#Journals)
 
-<strong> Last Update: Nov 4, 2023 </strong>
+<strong> Last Update: 2023/11/8 </strong>
 
 
 <a name="Surveys" />
