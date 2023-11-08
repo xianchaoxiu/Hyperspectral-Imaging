@@ -1,6 +1,6 @@
 # Hyperspectral Imaging
 
-We now foucs on tensor-based methods in hyperspectral imaging.
+We now focus on tensor model-guided data-driven approaches in hyperspectral imaging.
   - [Surveys](#Surveys)
   - [Classification](#Classification)
   - [Clustering](#Clustering)
