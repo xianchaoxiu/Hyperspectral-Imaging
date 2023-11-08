@@ -152,7 +152,8 @@ We now focus on tensor model-guided data-driven approaches in hyperspectral imag
 <a name="Fusion" />
 
 ## Fusion
-- [2023] LRRNet: A Novel Representation Learning Guided Fusion Network for Infrared and Visible Images, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/10105495)] [[code](https://github.com/hli1221/imagefusion-LRRNet)] 
+- [2023] LRRNet: A Novel Representation Learning Guided Fusion Network for Infrared and Visible Images, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/10105495)] [[code](https://github.com/hli1221/imagefusion-LRRNet)]
+- [2023] Multiband Image Fusion via Regularization on a Riemannian Submanifold, Remote Sensing [[paper](https://www.mdpi.com/2072-4292/15/18/4370)]
 - [2022] MHF-Net: An Interpretable Deep Network for Multispectral and Hyperspectral Image Fusion, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/abstract/document/9165231)] [[code](https://github.com/XieQi2015/MHF-net)]
 - [2022] ADMM-HFNet: A Matrix Decomposition-Based Deep Approach for Hyperspectral Image Fusion, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9547385)] [[code](https://github.com/liuofficial/ADMM-HFNet)]
 - [2022] NMF-DuNet: Nonnegative Matrix Factorization Inspired Deep Unrolling Networks for Hyperspectral and Multispectral Image Fusion, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/abstract/document/9822395)]
@@ -160,6 +161,7 @@ We now focus on tensor model-guided data-driven approaches in hyperspectral imag
 - [2021] Hyperspectral and Multispectral Image Fusion via Graph Laplacian-Guided Coupled Tensor Decomposition, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9094715)]
 - [2021] Regularizing Hyperspectral and Multispectral Image Fusion by CNN Denoiser, IEEE TNNLS [[paper](https://ieeexplore.ieee.org/abstract/document/9069930)]
 - [2020] Nonlocal Coupled Tensor CP Decomposition for Hyperspectral and Multispectral Image Fusion, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/8835149)]
+- [2020] Image Fusion via Sparse Regularization with Non-Convex Penalties, Pattern Recognition Letters [[paper](https://www.sciencedirect.com/science/article/pii/S0167865520300325)]
 - [2020] Nonlocal Sparse Tensor Factorization for Semiblind Hyperspectral and Multispectral Image Fusion, IEEE TC [[paper](https://ieeexplore.ieee.org/abstract/document/8917657)]
 - [2018] Spatial–Spectral-Graph-Regularized Low-Rank Tensor Decomposition for Multispectral and Hyperspectral Image Fusion, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/abstract/document/8253497)] 
 
