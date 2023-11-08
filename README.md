@@ -104,7 +104,7 @@ We now focus on tensor model-guided data-driven approaches in hyperspectral imag
 - [2023] Multitask Sparse Representation Model-Inspired Network for Hyperspectral Image Denoising, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/10198268)]
 - [2022] Non-Local Meets Global: An Iterative Paradigm for Hyperspectral Image Restoration, IEEE TPAMI [[paper](https://ieeexplore.ieee.org/document/9208755)] [[code](https://github.com/quanmingyao/NGMeet)]  
 - [2022] SMDS-Net: Model Guided Spectral-Spatial Network for Hyperspectral Image Denoising, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/9855427)] [[code](https://github.com/bearshng/smds-net)]  
-- [2022] Fast Noise Removal in Hyperspectral Images via Representative Coefficient Total Variation, IEEE TGRS  [[paper](https://ieeexplore.ieee.org/abstract/document/9989343)]
+- [2022] Fast Noise Removal in Hyperspectral Images via Representative Coefficient Total Variation, IEEE TGRS  [[paper](https://ieeexplore.ieee.org/abstract/document/9989343)] [[code](https://github.com/andrew-pengjj/rctv.git)]  
 - [2022] Hyperspectral Image Denoising by Asymmetric Noise Modeling, IEEE TGRS  [[paper](https://ieeexplore.ieee.org/abstract/document/9975834)]
 - [2022] Adaptive Rank and Structured Sparsity Corrections for Hyperspectral Image Restoration, IEEE TC [[paper](https://ieeexplore.ieee.org/abstract/document/9359537)]
 - [2022] Cooperated Spectral Low-Rankness Prior and Deep Spatial Prior for HSI Unsupervised Denoising, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/9913829)]
@@ -116,12 +116,16 @@ We now focus on tensor model-guided data-driven approaches in hyperspectral imag
 - [2021] MAC-Net: Model Aided Nonlocal Neural Network for Hyperspectral Image Denoising, IEEE TGRS [[paper](https://ieeexplore.ieee.org/abstract/document/9631264)] [[code](https://github.com/bearshng/mac-net)]
 - [2021] Total Variation Regularized Weighted Tensor Ring Decomposition for Missing Data Recovery in High-Dimensional Optical Remote Sensing Images, IEEE GRSL [[paper](https://ieeexplore.ieee.org/document/9399661)] [[code](https://openremotesensing.net/knowledgebase/total-variation-regularized-weighted-tensor-ring-decomposition-for-missing-data-recovery-in-high-dimensional-optical-remote-sensing-images/)]
 - [2021] Hyperspectral Image Denoising via Low-Rank Representation and CNN Denoiser, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/document/9664348)]
-- [2020] Plug-and-play Algorithms for Large-scale Snapshot Compressive Imaging, CVPR [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Yuan_Plug-and-Play_Algorithms_for_Large-Scale_Snapshot_Compressive_Imaging_CVPR_2020_paper.html)] [[code](https://github.com/liuyang12/PnP-SCI)] 
+- [2020] Plug-and-play Algorithms for Large-scale Snapshot Compressive Imaging, CVPR [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Yuan_Plug-and-Play_Algorithms_for_Large-Scale_Snapshot_Compressive_Imaging_CVPR_2020_paper.html)] [[code](https://github.com/liuyang12/PnP-SCI)]
 - [2020] Hyperspectral Image Restoration via CNN Denoiser Prior Regularized Low-Rank Tensor Recovery, Computer Vision and Image Understanding [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314220300710)] [[code](https://github.com/NavyZeng/DPLRTA)] 
 - [2019] Hyperspectral Image Denoising via Matrix Factorization and Deep Prior Regularization, IEEE TIP [[paper](https://ieeexplore.ieee.org/document/8767025)]
 - [2018] Hyperspectral Image Restoration Via Total Variation Regularized Low-Rank Tensor Decomposition, IEEE JSTARS [[paper](https://ieeexplore.ieee.org/abstract/document/8233403)] [[code](https://github.com/zhaoxile/Hyperspectral-Image-Restoration-via-Total-Variation-Regularized-Low-rank-Tensor-Decomposition)] 
 - [2018] FFDNet: Toward a Fast and Flexible Solution for CNN-Based Image Denoising, IEEE TIP [[paper](https://ieeexplore.ieee.org/abstract/document/8365806)] [[code](https://github.com/cszn/FFDNet)]
 - [2016] Deep ADMM-Net for Compressive Sensing MRI, NIPS [[paper](https://proceedings.neurips.cc/paper_files/paper/2016/hash/1679091c5a880faf6fb5e6087eb1b2dc-Abstract.html)] [[code](https://github.com/yangyan92/Deep-ADMM-Net)]
+
+
+
+
 
 <a name="Detection" />
 
