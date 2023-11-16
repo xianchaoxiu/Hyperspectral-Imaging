@@ -1,6 +1,6 @@
-# Hyperspectral Imaging
+# Hyperspectral Remote Sensing
 
-We now focus on tensor model-guided data-driven approaches in hyperspectral imaging.
+We now focus on tensor model-guided data-driven approaches in hyperspectral remote sensing.
   - [Surveys](#Surveys)
   - [Classification](#Classification)
   - [Clustering](#Clustering)
@@ -12,7 +12,7 @@ We now focus on tensor model-guided data-driven approaches in hyperspectral imag
   - [Unmixing](#Unmixing)
   - [Journals](#Journals)
 
-<strong> Last Update: 2023/11/10 </strong>
+<strong> Last Update: 2023/11/16 </strong>
 
 
 
