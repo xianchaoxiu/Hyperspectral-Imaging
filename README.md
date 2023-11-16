@@ -1,7 +1,7 @@
 # Hyperspectral Remote Sensing
 
 We now focus on tensor model-guided data-driven approaches in hyperspectral remote sensing.
-  - [Surveys](#Surveys)
+  - [Survey](#Survey)
   - [Classification](#Classification)
   - [Clustering](#Clustering)
   - [Denoising](#Denoising)
@@ -10,7 +10,8 @@ We now focus on tensor model-guided data-driven approaches in hyperspectral remo
   - [Pansharpening](#Pansharpening)
   - [Super-Resolution](#Super-Resolution)
   - [Unmixing](#Unmixing)
-  - [Journals](#Journals)
+  - [Toolbox](#Toolbox)
+  - [Journal](#Journal)
 
 <strong> Last Update: 2023/11/16 </strong>
 
@@ -18,9 +19,9 @@ We now focus on tensor model-guided data-driven approaches in hyperspectral remo
 
 
 
-<a name="Surveys" />
+<a name="Survey" />
 
-## Surveys
+## Survey
 - [2023] From Single- to Multi-Modal Remote Sensing Imagery Interpretation: A Survey and Taxonomy, Science China Information Sciences [[Paper](https://link.springer.com/article/10.1007/s11432-022-3588-0)]
 - [2023] Remote Sensing Object Detection Meets Deep Learning: A Meta-Review of Challenges and Advances, arXiv [[Paper](https://arxiv.org/abs/2309.06751)]
 - [2023] Tensor Decompositions for Hyperspectral Data Processing in Remote Sensing: A Comprehensive Review, IEEE GRSM [[Paper](https://ieeexplore.ieee.org/abstract/document/10035509)]
@@ -118,9 +119,10 @@ We now focus on tensor model-guided data-driven approaches in hyperspectral remo
 - [2021] A Trainable Spectral-Spatial Sparse Coding Model for Hyperspectral Image Restoration, NIPS  [[Paper](https://proceedings.neurips.cc/paper/2021/hash/2b515e2bdd63b7f034269ad747c93a42-Abstract.html)] [[Python](https://github.com/inria-thoth/T3SC)]
 - [2021] l0-l1 Hybrid Total Variation Regularization and its Applications on Hyperspectral Image Mixed Noise Removal and Compressed Sensing, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/document/9354456)] [[Matlab](https://openremotesensing.net/knowledgebase/l%e2%82%80-l%e2%82%81-hybrid-total-variation-regularization-and-its-applications-on-hyperspectral-image-mixed-noise-removal-and-compressed-sensing/)] 
 - [2021] MAC-Net: Model Aided Nonlocal Neural Network for Hyperspectral Image Denoising, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/abstract/document/9631264)] [[Python](https://github.com/bearshng/mac-net)]
+- [2021] Hyperspectral Image Restoration by Tensor Fibered Rank Constrained Optimization and Plug-and-Play Regularization, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/abstract/document/9314228)] [[Matlab](https://github.com/YuBangZheng/code_TGRS_low-fibered-rank)]
 - [2021] Total Variation Regularized Weighted Tensor Ring Decomposition for Missing Data Recovery in High-Dimensional Optical Remote Sensing Images, IEEE GRSL [[Paper](https://ieeexplore.ieee.org/document/9399661)] [[Matlab](https://openremotesensing.net/knowledgebase/total-variation-regularized-weighted-tensor-ring-decomposition-for-missing-data-recovery-in-high-dimensional-optical-remote-sensing-images/)]
 - [2021] Hyperspectral Image Denoising via Low-Rank Representation and CNN Denoiser, IEEE JSTARS [[Paper](https://ieeexplore.ieee.org/document/9664348)]
-- [2020] Plug-and-play Algorithms for Large-scale Snapshot Compressive Imaging, CVPR [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Yuan_Plug-and-Play_Algorithms_for_Large-Scale_Snapshot_Compressive_Imaging_CVPR_2020_paper.html)] [[Matlab](https://github.com/liuyang12/PnP-SCI)]
+- [2020] Double-Factor-Regularized Low-Rank Tensor Factorization for Mixed Noise Removal in Hyperspectral Image, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/abstract/document/9084248)] [[Matlab](https://github.com/YuBangZheng/code_LRTFDFR)]
 - [2020] Hyperspectral Image Restoration via CNN Denoiser Prior Regularized Low-Rank Tensor Recovery, Computer Vision and Image Understanding [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314220300710)] [[Python](https://github.com/NavyZeng/DPLRTA)] 
 - [2019] Hyperspectral Image Denoising via Matrix Factorization and Deep Prior Regularization, IEEE TIP [[Paper](https://ieeexplore.ieee.org/document/8767025)]
 - [2018] Hyperspectral Image Restoration Via Total Variation Regularized Low-Rank Tensor Decomposition, IEEE JSTARS [[Paper](https://ieeexplore.ieee.org/abstract/document/8233403)] [[Matlab](https://github.com/zhaoxile/Hyperspectral-Image-Restoration-via-Total-Variation-Regularized-Low-rank-Tensor-Decomposition)] 
@@ -251,12 +253,18 @@ We now focus on tensor model-guided data-driven approaches in hyperspectral remo
 - [2017] SRCMF: Robust Constrained Matrix Factorization for Hyperspectral Unmixing, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/document/7875072)] [[Matlab](https://openremotesensing.net/knowledgebase/rcmf-robust-constrained-matrix-factorization-for-hyperspectral-unmixing/)] 
 
 
+<a name="Toolbox" />
+
+## Toolbox
+
+- LibADMM [[Link](https://github.com/canyilu/LibADMM-toolbox)]
+- FFDNet [[Link](https://github.com/cszn/FFDNet)]
 
 
 
-<a name="Journals" />
+<a name="Journal" />
 
-## Journals
+## Journal
 - Remote Sensing of Environment [[Link](https://www.sciencedirect.com/journal/remote-sensing-of-environment)]
 - ISPRS Journal of Photogrammetry and Remote Sensing [[Link](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing)]
 - IEEE Transactions on Geoscience and Remote Sensing [[Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)]
