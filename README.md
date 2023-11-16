@@ -109,6 +109,7 @@ We now focus on tensor model-guided data-driven approaches in hyperspectral remo
 - [2022] SMDS-Net: Model Guided Spectral-Spatial Network for Hyperspectral Image Denoising, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/9855427)] [[Python](https://github.com/bearshng/smds-net)]  
 - [2022] Fast Noise Removal in Hyperspectral Images via Representative Coefficient Total Variation, IEEE TGRS  [[Paper](https://ieeexplore.ieee.org/abstract/document/9989343)] [[Matlab](https://github.com/andrew-pengjj/rctv.git)]  
 - [2022] Hyperspectral Image Denoising by Asymmetric Noise Modeling, IEEE TGRS  [[Paper](https://ieeexplore.ieee.org/abstract/document/9975834)]
+- [2022] Deep Plug-and-Play Prior for Hyperspectral Image Restoration, Neurocomputing  [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S092523122200073X)]  [[Python](https://github.com/Zeqiang-Lai/DPHSIR)]  
 - [2022] Adaptive Rank and Structured Sparsity Corrections for Hyperspectral Image Restoration, IEEE TC [[Paper](https://ieeexplore.ieee.org/abstract/document/9359537)]
 - [2022] Cooperated Spectral Low-Rankness Prior and Deep Spatial Prior for HSI Unsupervised Denoising, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/9913829)]
 - [2022] Hyperspectral Image Denoising Using Spectral-Spatial Transform-Based Sparse and Low-Rank Representations, IEEE TGRS  [[Paper](https://ieeexplore.ieee.org/abstract/document/9680733)]
