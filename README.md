@@ -258,8 +258,6 @@ We now focus on tensor model-guided data-driven approaches in hyperspectral remo
 ## Toolbox
 
 - LibADMM [[Link](https://github.com/canyilu/LibADMM-toolbox)]
-- FFDNet [[Link](https://github.com/cszn/FFDNet)]
-
 
 
 <a name="Journal" />
