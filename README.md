@@ -21,6 +21,7 @@ We now focus on tensor model-guided data-driven approaches in hyperspectral remo
 <a name="Surveys" />
 
 ## Surveys
+- [2023] From Single- to Multi-Modal Remote Sensing Imagery Interpretation: A Survey and Taxonomy, Science China Information Sciences [[Paper](https://link.springer.com/article/10.1007/s11432-022-3588-0)]
 - [2023] Remote Sensing Object Detection Meets Deep Learning: A Meta-Review of Challenges and Advances, arXiv [[Paper](https://arxiv.org/abs/2309.06751)]
 - [2023] Tensor Decompositions for Hyperspectral Data Processing in Remote Sensing: A Comprehensive Review, IEEE GRSM [[Paper](https://ieeexplore.ieee.org/abstract/document/10035509)]
 - [2023] Sparse Tensor Prior for Hyperspectral, Multispectral, and Panchromatic Image Fusion, IEEE/CAA JAS [[Paper](https://ieeexplore.ieee.org/abstract/document/9910372)]
@@ -96,6 +97,7 @@ We now focus on tensor model-guided data-driven approaches in hyperspectral remo
 <a name="Denoising" />
 
 ## Denoising
+- [2023] A New Nonconvex Low-Rank Tensor Approximation Method with Applications to Hyperspectral Images Denoising, Inverse Problems [[Paper](https://iopscience.iop.org/article/10.1088/1361-6420/acc88a/meta)] 
 - [2023] Tuning-free Plug-and-Play Hyperspectral Image Deconvolution with Deep Priors, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/abstract/document/10061448)] [[Python](https://github.com/xiuheng-wang/Tuning_free_PnP_HSI_deconvolution)]  
 - [2023] Content-Aware Subspace Low-Rank Tensor Recovery for Hyperspectral Image Restoration, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/document/10238728)]
 - [2023] Deep Tensor Attention Prior Network for Hyperspectral Image Denoising, IEEE JSTARS [[Paper](https://ieeexplore.ieee.org/abstract/document/10179990)]
