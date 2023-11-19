@@ -260,8 +260,6 @@ I am currently working on tensor model-guided data-driven approaches in hyperspe
 - ISPRS Journal of Photogrammetry and Remote Sensing [[Link](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing)]
 - IEEE Transactions on Geoscience and Remote Sensing [[Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)]
 - IEEE Geoscience and Remote Sensing Magazine [[Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245518)]
-- IEEE Geoscience and Remote Sensing Letters [[Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859)]
-- IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing  [[Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443)]
 
 
 <a name="Tools" />
