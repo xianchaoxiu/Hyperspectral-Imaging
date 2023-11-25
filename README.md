@@ -97,6 +97,7 @@ I am currently working on tensor model-guided data-driven approaches in hyperspe
 <a name="Denoising" />
 
 ## Denoising
+- [2023] FastHyMix: Fast and Parameter-Free Hyperspectral Image Mixed Noise Removal, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/document/9552462)] [[Matlab](https://github.com/LinaZhuang/HSI-MixedNoiseRemoval-FastHyMix)]  
 - [2023] A New Nonconvex Low-Rank Tensor Approximation Method with Applications to Hyperspectral Images Denoising, Inverse Problems [[Paper](https://iopscience.iop.org/article/10.1088/1361-6420/acc88a/meta)] 
 - [2023] Tuning-free Plug-and-Play Hyperspectral Image Deconvolution with Deep Priors, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/abstract/document/10061448)] [[Python](https://github.com/xiuheng-wang/Tuning_free_PnP_HSI_deconvolution)]  
 - [2023] Content-Aware Subspace Low-Rank Tensor Recovery for Hyperspectral Image Restoration, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/document/10238728)]
@@ -113,7 +114,8 @@ I am currently working on tensor model-guided data-driven approaches in hyperspe
 - [2022] Adaptive Rank and Structured Sparsity Corrections for Hyperspectral Image Restoration, IEEE TC [[Paper](https://ieeexplore.ieee.org/abstract/document/9359537)]
 - [2022] Cooperated Spectral Low-Rankness Prior and Deep Spatial Prior for HSI Unsupervised Denoising, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/9913829)]
 - [2022] Hyperspectral Image Denoising Using Spectral-Spatial Transform-Based Sparse and Low-Rank Representations, IEEE TGRS  [[Paper](https://ieeexplore.ieee.org/abstract/document/9680733)]
-- [2021] Multigraph-Based Low-Rank Tensor Approximation for Hyperspectral Image Restoration, IEEE TGRS  [[Paper](https://ieeexplore.ieee.org/document/9781310)] [[Matlab](https://openremotesensing.net/knowledgebase/tensor-low-rank-constraint-and-l0-total-variation-for-hyperspectral-image-mixed-noise-removal/)] 
+- [2021] Multigraph-Based Low-Rank Tensor Approximation for Hyperspectral Image Restoration, IEEE TGRS  [[Paper](https://ieeexplore.ieee.org/document/9781310)] [[Matlab](https://openremotesensing.net/knowledgebase/tensor-low-rank-constraint-and-l0-total-variation-for-hyperspectral-image-mixed-noise-removal/)]
+- [2021] Hy-Demosaicing: Hyperspectral Blind Reconstruction From Spectral Subsampling, IEEE TGRS  [[Paper](https://ieeexplore.ieee.org/document/9513279)] [[Matlab](https://github.com/LinaZhuang/Hy-demosaicing)]
 - [2021] LR-Net: Low-Rank Spatial-Spectral Network for Hyperspectral Image Denoising, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/9580717)]
 - [2021] A Trainable Spectral-Spatial Sparse Coding Model for Hyperspectral Image Restoration, NIPS  [[Paper](https://proceedings.neurips.cc/paper/2021/hash/2b515e2bdd63b7f034269ad747c93a42-Abstract.html)] [[Python](https://github.com/inria-thoth/T3SC)]
 - [2021] l0-l1 Hybrid Total Variation Regularization and its Applications on Hyperspectral Image Mixed Noise Removal and Compressed Sensing, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/document/9354456)] [[Matlab](https://openremotesensing.net/knowledgebase/l%e2%82%80-l%e2%82%81-hybrid-total-variation-regularization-and-its-applications-on-hyperspectral-image-mixed-noise-removal-and-compressed-sensing/)] 
@@ -207,7 +209,7 @@ I am currently working on tensor model-guided data-driven approaches in hyperspe
 
 ## Super-Resolution
 - [2023] Bayesian Nonlocal Patch Tensor Factorization for Hyperspectral Image Super-Resolution, IEEE TIP [[Paper](https://ieeexplore.ieee.org/document/10299572)]
-- [2022] Hyperspectral Image Super-Resolution via Deep Prior Regularization With Parameter Estimation, IEEE ICSVT [[Paper](https://ieeexplore.ieee.org/abstract/document/9427207)] [[Python](https://github.com/xiuheng-wang/Tuning_free_PnP_HSI_deconvolution)]
+- [2022] Hyperspectral Image Super-Resolution via Deep Prior Regularization With Parameter Estimation, IEEE TCSVT [[Paper](https://ieeexplore.ieee.org/abstract/document/9427207)] [[Python](https://github.com/xiuheng-wang/Tuning_free_PnP_HSI_deconvolution)]
 - [2022] Hyperspectral Super-Resolution via Coupled Tensor Ring Factorization, Pattern Recognition [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S003132032100460X)]
 - [2022] Hyperspectral Image Super-resolution with Deep Priors and Degradation Model Inversion, IEEE ICASSP [[Paper](https://ieeexplore.ieee.org/abstract/document/9747339)] [[Matlab](https://github.com/xiuheng-wang/Deep_gradient_HSI_superresolution)]
 - [2022] An Iterative Regularization Method Based on Tensor Subspace Representation for Hyperspectral Image Super-Resolution, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/abstract/document/9777947)] [[Matlab](https://github.com/liangjiandeng/IR_TenSR)]
@@ -242,7 +244,7 @@ I am currently working on tensor model-guided data-driven approaches in hyperspe
 - [2021] Sparse and Low-Rank Constrained Tensor Factorization for Hyperspectral Image Unmixing, IEEE JSTARS [[Paper](https://ieeexplore.ieee.org/abstract/document/9312393)]
 - [2021] Hyperspectral Unmixing Using Nonlocal Similarity-Regularized Low-Rank Tensor Factorization, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/abstract/document/9511333)]
 - [2021] Sparsity-Enhanced Convolutional Decomposition: A Novel Tensor-Based Paradigm for Blind Hyperspectral Unmixing, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/document/9399660)][[Matlab](https://github.com/danfenghong/IEEE_TGRS_SeCoDe)]
-- [2021] Using Low-Rank Representation of Abundance Maps and Nonnegative Tensor Factorization for Hyperspectral Nonlinear Unmixing, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/abstract/document/9386217)][[Matlab](https://github.com/LinaZhuang)]
+- [2021] Using Low-Rank Representation of Abundance Maps and Nonnegative Tensor Factorization for Hyperspectral Nonlinear Unmixing, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/abstract/document/9386217)][[Matlab](https://github.com/LinaZhuang/HSI_nonlinear_unmixing_LR-NTFg)]
 - Clustering by Orthogonal NMF Model and Non-Convex Penalty Optimization, IEEE TIP [[Paper](https://ieeexplore.ieee.org/document/9508841)]  [[Matlab](https://github.com/wshuai317/NCP_ONMF)]
 - [2020] Sparsity-Constrained Coupled Nonnegative Matrix–Tensor Factorization for Hyperspectral Unmixing, IEEE JSTARS [[Paper](https://ieeexplore.ieee.org/abstract/document/9178427)]
 - [2020] Weighted Nonlocal Low-Rank Tensor Decomposition Method for Sparse Unmixing of Hyperspectral Images, IEEE JSTARS [[Paper](https://ieeexplore.ieee.org/abstract/document/9035393)]
