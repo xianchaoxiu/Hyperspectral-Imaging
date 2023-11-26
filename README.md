@@ -268,9 +268,8 @@ I am currently working on tensor model-guided data-driven approaches in hyperspe
 
 ## Tools
 
-- LibADMM [[Link](https://github.com/canyilu/LibADMM-toolbox)]
-
-
+- LibADMM: A Library of ADMM for Sparse and Low-rank Optimization [[Link](https://github.com/canyilu/LibADMM-toolbox)]
+- NPO: A Collection of Nonconvex Proximal Operators
 
 
 
