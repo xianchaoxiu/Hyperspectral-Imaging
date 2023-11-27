@@ -24,7 +24,6 @@ I am currently working on tensor model-guided data-driven approaches in hyperspe
 - [2023] From Single- to Multi-Modal Remote Sensing Imagery Interpretation: A Survey and Taxonomy, Science China Information Sciences [[Paper](https://link.springer.com/article/10.1007/s11432-022-3588-0)]
 - [2023] Remote Sensing Object Detection Meets Deep Learning: A Meta-Review of Challenges and Advances, arXiv [[Paper](https://arxiv.org/abs/2309.06751)]
 - [2023] Tensor Decompositions for Hyperspectral Data Processing in Remote Sensing: A Comprehensive Review, IEEE GRSM [[Paper](https://ieeexplore.ieee.org/abstract/document/10035509)]
-- [2023] Sparse Tensor Prior for Hyperspectral, Multispectral, and Panchromatic Image Fusion, IEEE/CAA JAS [[Paper](https://ieeexplore.ieee.org/abstract/document/9910372)]
 - [2023] A Survey on Hyperspectral Image Restoration: From the View of Low-Rank Tensor Approximation, Science China Information Sciences [[Paper](https://link.springer.com/article/10.1007/s11432-022-3609-4)]
 - [2023] Multispectral and Hyperspectral Image Fusion In Remote Sensing: A Survey, Information Fusion [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253522001312)]
 - [2023] Hyperspectral Image Denoising: From Model-Driven, Data-Driven, to Model-Data-Driven, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/10144690)]
