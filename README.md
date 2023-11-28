@@ -1,5 +1,5 @@
-# Hyperspectral Remote Sensing
-I am currently working on tensor model-guided data-driven approaches in hyperspectral remote sensing.
+# Hyperspectral Processing
+I am currently working on tensor model-guided data-driven approaches in hyperspectral processing.
   - [Surveys](#Surveys)
   - [Classification](#Classification)
   - [Clustering](#Clustering)
@@ -7,7 +7,7 @@ I am currently working on tensor model-guided data-driven approaches in hyperspe
   - [Detection](#Detection)
   - [Fusion](#Fusion)
   - [Pansharpening](#Pansharpening)
-  - [Super-Resolution](#Super-Resolution)
+  - [Superresolution](#Superresolution)
   - [Unmixing](#Unmixing)
   - [Journals](#Journals)
   - [Tools](#Tools)
@@ -204,9 +204,9 @@ I am currently working on tensor model-guided data-driven approaches in hyperspe
 
 
 
-<a name="Super-Resolution" />
+<a name="Superresolution" />
 
-## Super-Resolution
+## Superresolution
 - [2023] Bayesian Nonlocal Patch Tensor Factorization for Hyperspectral Image Super-Resolution, IEEE TIP [[Paper](https://ieeexplore.ieee.org/document/10299572)]
 - [2022] Hyperspectral Image Super-Resolution via Deep Prior Regularization With Parameter Estimation, IEEE TCSVT [[Paper](https://ieeexplore.ieee.org/abstract/document/9427207)] [[Python](https://github.com/xiuheng-wang/Tuning_free_PnP_HSI_deconvolution)]
 - [2022] Hyperspectral Super-Resolution via Coupled Tensor Ring Factorization, Pattern Recognition [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S003132032100460X)]
