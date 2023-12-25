@@ -102,6 +102,8 @@ I am currently working on tensor model-guided data-driven approaches in hyperspe
 <a name="Denoising" />
 
 ## Denoising
+- [2023] Combining Low-Rank and Deep Plug-and-Play Priors for Snapshot Compressive Imaging
+, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/10190167)] 
 - [2023] FastHyMix: Fast and Parameter-Free Hyperspectral Image Mixed Noise Removal, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/document/9552462)] [[Matlab](https://github.com/LinaZhuang/HSI-MixedNoiseRemoval-FastHyMix)]  
 - [2023] A New Nonconvex Low-Rank Tensor Approximation Method with Applications to Hyperspectral Images Denoising, Inverse Problems [[Paper](https://iopscience.iop.org/article/10.1088/1361-6420/acc88a/meta)] 
 - [2023] Tuning-free Plug-and-Play Hyperspectral Image Deconvolution with Deep Priors, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/abstract/document/10061448)] [[Python](https://github.com/xiuheng-wang/Tuning_free_PnP_HSI_deconvolution)]  
