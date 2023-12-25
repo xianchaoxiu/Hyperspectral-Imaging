@@ -1,6 +1,6 @@
 # Hyperspectral Remote Sensing
 <p align="center">
-  <img src="images/rs.png" width="500">
+  <img src="images/rs.png" width="600">
   <br>
   (From SCIS2023)
 </p>
