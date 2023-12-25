@@ -2,7 +2,7 @@
 <p align="center">
   <img src="images/rs.png" width="500">
   <br>
-  (From A Survey on Hyperspectral Image Restoration: From the View of Low-Rank Tensor Approximation)
+  (From SCIS2023)
 </p>
 
 I am currently working on tensor model-guided data-driven approaches in hyperspectral remote sensing.
@@ -16,7 +16,7 @@ I am currently working on tensor model-guided data-driven approaches in hyperspe
   - [Superresolution](#Superresolution)
   - [Unmixing](#Unmixing)
   - [Journals](#Journals)
-  - [Tools](#Tools)
+  - [Links](#Links)
 
 <strong> Last Update: 2023/11/25 </strong>
 
@@ -269,12 +269,12 @@ I am currently working on tensor model-guided data-driven approaches in hyperspe
 - IEEE Geoscience and Remote Sensing Magazine [[Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245518)]
 
 
-<a name="Tools" />
+<a name="Links" />
 
-## Tools
-
+## Links
+- Satellite Image Deep Learning [[Link](https://github.com/satellite-image-deep-learning/techniques)]
 - LibADMM: A Library of ADMM for Sparse and Low-rank Optimization [[Link](https://github.com/canyilu/LibADMM-toolbox)]
-- NPO: A Collection of Nonconvex Proximal Operators
+
 
 
 
