@@ -1,5 +1,5 @@
-# Hyperspectral Imaging
-I am currently working on tensor model-guided data-driven approaches in hyperspectral imaging.
+# Hyperspectral Remote Sensing
+I am currently working on tensor model-guided data-driven approaches in hyperspectral remote sensing.
   - [Surveys](#Surveys)
   - [Classification](#Classification)
   - [Clustering](#Clustering)
