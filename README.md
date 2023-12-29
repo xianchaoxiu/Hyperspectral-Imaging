@@ -2,7 +2,6 @@
 <p align="center">
   <img src="images/rs.png" width="600">
   <br>
-  (From SCIS2023)
 </p>
 
 I am currently working on tensor model-guided data-driven approaches in hyperspectral remote sensing.
