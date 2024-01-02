@@ -267,7 +267,7 @@ I am currently working on tensor model-guided data-driven approaches in hyperspe
 - Remote Sensing of Environment [[Link](https://www.sciencedirect.com/journal/remote-sensing-of-environment)]
 - ISPRS Journal of Photogrammetry and Remote Sensing [[Link](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing)]
 - IEEE Transactions on Geoscience and Remote Sensing [[Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)]
-- IEEE Geoscience and Remote Sensing Magazine [[Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245518)]
+
 
 
 <a name="Links" />
