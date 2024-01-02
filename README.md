@@ -1,4 +1,4 @@
-# Hyperspectral Imaging
+# Hyperspectral Remote Sensing
 <p align="center">
   <img src="images/rs.png" width="600">
   <br>
