@@ -1,7 +1,7 @@
 # Hyperspectral Remote Sensing
 <p align="center">
   <img src="images/rs.png" width="600">
-  <br>
+  （From  A Survey on Hyperspectral Image Restoration: From the View of Low-Rank Tensor Approximation）<br>
 </p>
 
 I am currently working on tensor model-guided data-driven approaches in hyperspectral remote sensing.
