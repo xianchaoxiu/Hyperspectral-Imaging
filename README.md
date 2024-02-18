@@ -58,6 +58,7 @@ I am currently working on tensor model-guided data-driven approaches in hyperspe
 <a name="Classification" />
 
 ## Classification
+- [2024] GraphGST: Graph Generative Structure-Aware Transformer for Hyperspectral Image Classification, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/abstract/document/10379176)] [[Python](https://github.com/yuanchaosu/TGRS-graphGST)]
 - [2023] Universal Domain Adaptation for Remote Sensing Image Scene Classification, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/document/10043671)] [[Python](https://github.com/zhu-xlab/UniDA)]
 - [2023] UCSL: Toward Unsupervised Common Subspace Learning for Cross-Modal Image Classification, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/document/10144390)] [[Matlab](https://github.com/jingyao16/UCSL)]
 - [2023] Multilevel Spatial Feature-Based Manifold Metric Learning for Domain Adaptation in Remote Sensing Image Classification, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/document/10285503)] 
@@ -241,6 +242,7 @@ I am currently working on tensor model-guided data-driven approaches in hyperspe
 - [2023] Unrolling Nonnegative Matrix Factorization With Group Sparsity for Blind Hyperspectral Unmixing, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/abstract/document/10173648)]
 - [2023] Hyperspectral Unmixing Using Higher-Order Graph Regularized NMF With Adaptive Feature Selection, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/abstract/document/10124031)]
 - [2023] Adaptive Hypergraph Regularized Multilayer Sparse Tensor Factorization for Hyperspectral Unmixing, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/abstract/document/10032657)]
+- [2022] UnDIP: Hyperspectral Unmixing Using Deep Image Prior, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/abstract/document/9392110)] [[Python](https://github.com/BehnoodRasti/UnDIP)] 
 - [2022] Hyperspectral Sparse Unmixing via Nonconvex Shrinkage Penalties, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/abstract/document/9999711)]
 - [2022] Efficient Weighted-Adaptive Sparse Constrained Nonnegative Tensor Factorization for Hyperspectral Unmixing, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/abstract/document/9954891)]
 - [2022] SNMF-Net: Learning a Deep Alternating Neural Network for Hyperspectral Unmixing, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/abstract/document/9444347)] [[Python](https://github.com/yxhnjust/F3Net)] 
