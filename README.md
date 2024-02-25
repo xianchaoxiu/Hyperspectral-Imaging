@@ -102,6 +102,7 @@ I am currently working on tensor model-guided data-driven approaches in hyperspe
 <a name="Denoising" />
 
 ## Denoising
+- [2024] Learnable Representative Coefficient Image Denoiser for Hyperspectral Image, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/abstract/document/10413643)] [[Python](https://github.com/andrew-pengjj/RCILD)] 
 - [2023] Combining Low-Rank and Deep Plug-and-Play Priors for Snapshot Compressive Imaging
 , IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/10190167)] 
 - [2023] FastHyMix: Fast and Parameter-Free Hyperspectral Image Mixed Noise Removal, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/document/9552462)] [[Matlab](https://github.com/LinaZhuang/HSI-MixedNoiseRemoval-FastHyMix)]  
