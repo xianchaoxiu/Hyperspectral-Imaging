@@ -143,6 +143,7 @@ I am currently working on tensor model-guided data-driven approaches in hyperspe
 <a name="Detection" />
 
 ## Detection
+- [2024] Low-Rank Representations Meets Deep Unfolding: A Generalized and Interpretable Network for Hyperspectral Anomaly Detection, arXiv [[Paper](https://arxiv.org/pdf/2402.15335v1.pdf)][[Python](https://sites.google.com/view/danfeng-hong)]
 - [2023] Anomaly Detection for Hyperspectral Imagery via Tensor Low-Rank Approximation With Multiple Subspace Learning, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10108976)]
 - [2023] Learning Tensor Low-Rank Representation for Hyperspectral Anomaly Detection, IEEE TC [[Paper](https://ieeexplore.ieee.org/abstract/document/9781337)] [[Matlab](https://openremotesensing.net/knowledgebase/learning-tensor-low-rank-representation-for-hyperspectral-anomaly-detection/)]
 - [2023] A Model-Driven Deep Mixture Network for Robust Hyperspectral Anomaly Detection, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/abstract/document/10234436)]
