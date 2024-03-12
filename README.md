@@ -102,6 +102,7 @@ I am currently working on tensor model-guided data-driven approaches in hyperspe
 <a name="Denoising" />
 
 ## Denoising
+- [2024] Full-Mode-Augmentation Tensor-Train Rank Minimization for Hyperspectral Image Inpainting IEEE TGRS [[Paper](https://ieeexplore.ieee.org/document/10348539)]
 - [2024] Hyperspectral Compressive Snapshot Reconstruction via Coupled Low-Rank Subspace Representation and Self-Supervised Deep Network, IEEE TIP [[Paper](https://ieeexplore.ieee.org/document/10411766)] [[Python](https://github.com/ChenYong1993/LRSDN)] 
 - [2024] Learnable Representative Coefficient Image Denoiser for Hyperspectral Image, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/abstract/document/10413643)] [[Python](https://github.com/andrew-pengjj/RCILD)] 
 - [2023] Combining Low-Rank and Deep Plug-and-Play Priors for Snapshot Compressive Imaging
