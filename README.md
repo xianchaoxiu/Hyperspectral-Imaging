@@ -58,6 +58,7 @@ I am currently working on tensor model-guided data-driven approaches in hyperspe
 <a name="Classification" />
 
 ## Classification
+- [2024] Feedback Band Group and Variation Low-Rank Sparse Model for Hyperspectral Image Anomaly Detection, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/abstract/document/10430170)] 
 - [2024] GraphGST: Graph Generative Structure-Aware Transformer for Hyperspectral Image Classification, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/abstract/document/10379176)] [[Python](https://github.com/yuanchaosu/TGRS-graphGST)]
 - [2023] Universal Domain Adaptation for Remote Sensing Image Scene Classification, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/document/10043671)] [[Python](https://github.com/zhu-xlab/UniDA)]
 - [2023] UCSL: Toward Unsupervised Common Subspace Learning for Cross-Modal Image Classification, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/document/10144390)] [[Matlab](https://github.com/jingyao16/UCSL)]
@@ -80,6 +81,7 @@ I am currently working on tensor model-guided data-driven approaches in hyperspe
 <a name="Clustering" />
 
 ## Clustering
+- [2024] Spatial and Cluster Structural Prior-Guided Subspace Clustering for Hyperspectral Image, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/abstract/document/10466479)]
 - [2023] Diffusion Subspace Clustering for Hyperspectral Images, IEEE JSTARS [[Paper](https://ieeexplore.ieee.org/abstract/document/10179942)]
 - [2022] Sparsity Regularized Deep Subspace Clustering for Multicriterion-Based Hyperspectral Band Selection, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/document/9767632)]
 - [2022] Heterogeneous Regularization-Based Tensor Subspace Clustering for Hyperspectral Band Selection, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/abstract/document/9737043)]
