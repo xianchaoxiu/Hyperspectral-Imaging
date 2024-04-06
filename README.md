@@ -25,6 +25,7 @@ I am currently working on tensor model-guided data-driven approaches in hyperspe
 <a name="Surveys" />
 
 ## Surveys
+- [2024] Beyond Supervised Learning in RemoteSensing: A Systematic Review of Deep Learning Approaches, IEEE JSTARS [[Paper](https://ieeexplore.ieee.org/document/10255122)]
 - [2023] From Single- to Multi-Modal Remote Sensing Imagery Interpretation: A Survey and Taxonomy, Science China Information Sciences [[Paper](https://link.springer.com/article/10.1007/s11432-022-3588-0)]
 - [2023] Remote Sensing Object Detection Meets Deep Learning: A Meta-Review of Challenges and Advances, arXiv [[Paper](https://arxiv.org/abs/2309.06751)]
 - [2023] Tensor Decompositions for Hyperspectral Data Processing in Remote Sensing: A Comprehensive Review, IEEE GRSM [[Paper](https://ieeexplore.ieee.org/abstract/document/10035509)]
@@ -222,6 +223,7 @@ I am currently working on tensor model-guided data-driven approaches in hyperspe
 <a name="Superresolution" />
 
 ## Superresolution
+- [2024] Building Bridges across Spatial and TemporalResolutions: Reference-Based Super-Resolution via Change Priors and Conditional Diffusion Model, CVPR [[Paper](https://arxiv.org/abs/2403.17460v1)]  [[Python](https://github.com/dongrunmin/RefDiff)]
 - [2023] Bayesian Nonlocal Patch Tensor Factorization for Hyperspectral Image Super-Resolution, IEEE TIP [[Paper](https://ieeexplore.ieee.org/document/10299572)]
 - [2022] Hyperspectral Image Super-Resolution via Deep Prior Regularization With Parameter Estimation, IEEE TCSVT [[Paper](https://ieeexplore.ieee.org/abstract/document/9427207)] [[Python](https://github.com/xiuheng-wang/Tuning_free_PnP_HSI_deconvolution)]
 - [2022] Hyperspectral Super-Resolution via Coupled Tensor Ring Factorization, Pattern Recognition [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S003132032100460X)]
