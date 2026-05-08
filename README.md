@@ -198,6 +198,8 @@ I am currently working on tensor model-guided data-driven approaches in hyperspe
 <a name="Pansharpening" />
 
 ## Pansharpening
+- [2024] PCA-CNN hybrid approach for hyperspectral pansharpening, IEEE GRSL [[Paper](https://ieeexplore.ieee.org/document/10288481)] [[Python](https://github.com/giu-guarino/PCA-Z-PNN)]
+- [2023] Band-wise hyperspectral image pansharpening using CNN model propagation, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/document/10341305)] [[Python](https://github.com/giu-guarino/R-PNN)]
 - [2023] Pansharpening With Spatial Hessian Non-Convex Sparse and Spectral Gradient Low Rank Priors, IEEE TIP [[Paper](https://ieeexplore.ieee.org/abstract/document/10091788)]
 - [2023] Pansharpening Method Based on Deep Nonlocal Unfolding, IEEE TGRS [[Paper](https://ieeexplore.ieee.org/abstract/document/10155438)]
 - [2023] Unsupervised Pansharpening via Low-rank Diffusion Model，arXiv [[Paper](https://arxiv.org/abs/2305.10925)]  [[Python](https://github.com/xyrui/plrdiff)]
